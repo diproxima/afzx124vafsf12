@@ -1,0 +1,14 @@
+[
+  {
+    "name": "black",
+    "class": "iconify-svg-spinners--180-ring-with-bg-black"
+  },
+  {
+    "name": "white",
+    "class": "iconify-svg-spinners--180-ring-with-bg-white"
+  },
+  {
+    "name": "gray",
+    "class": "iconify-svg-spinners--180-ring-with-bg-gray"
+  }
+]

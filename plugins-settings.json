@@ -1,0 +1,86 @@
+{
+    "66a79c98-70e7-4bc4-8859-20776b024ec2": {
+        "id": "27f56a5c-32ec-4f80-9424-f639c073062d",
+        "name": "PWA",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
+        "publicData": {}
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "c9a2ad39-a394-4287-b70a-c280be1793a2",
+        "name": "REST API",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "69d4a5bb-09a3-4f3d-a94e-667c21c057eb": {
+        "id": "ab4990a3-8286-4ec8-8d03-c3eae72d9717",
+        "name": "NPM",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "69d4a5bb-09a3-4f3d-a94e-667c21c057eb",
+        "publicData": {
+            "packages": [
+                {
+                    "link": "https://apexcharts.com",
+                    "name": "apexcharts",
+                    "version": "4.1.0",
+                    "instanceName": ""
+                },
+                {
+                    "link": "https://github.com/apvarun/toastify-js#readme",
+                    "name": "toastify-js",
+                    "version": "1.12.0",
+                    "instanceName": ""
+                }
+            ]
+        }
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "99efae55-d975-4f22-b35c-44f60fb0f141",
+        "name": "Charts",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "832d6f7a-42c3-43f1-a3ce-9a678272f811": {
+        "id": "6b787117-291f-46d9-ae12-70dcaae92469",
+        "name": "Date",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "832d6f7a-42c3-43f1-a3ce-9a678272f811",
+        "publicData": {}
+    },
+    "fbf0feec-356b-461b-8738-3b1f44edaf02": {
+        "id": "fa2d81c5-885b-41d2-92e3-a732a7fd9992",
+        "name": "Google GTM",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "fbf0feec-356b-461b-8738-3b1f44edaf02",
+        "publicData": {
+            "containerIdProd": "G-8BF6KBKWLC",
+            "containerIdEditor": "G-8BF6KBKWLC",
+            "containerIdStaging": "G-8BF6KBKWLC"
+        }
+    },
+    "41448d5d-ae26-49bd-82b6-1c79f462e972": {
+        "id": "84ae3fb1-c08b-43f2-9174-d3f82e72045a",
+        "name": "Token Based Auth",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "41448d5d-ae26-49bd-82b6-1c79f462e972",
+        "publicData": {
+            "type": "bearer-token",
+            "refreshType": "custom-body",
+            "userEndpoint": "https://api.finup.io/backend/user",
+            "refreshFieldRequest": "refresh_token",
+            "afterForbiddenPageId": "2f929641-2a4e-4ec6-abac-9fd8ab451c42",
+            "afterNotSignInPageId": "2f929641-2a4e-4ec6-abac-9fd8ab451c42",
+            "refreshFieldResponse": "access_token",
+            "refreshTokenEndpoint": "https://api.finup.io/backend/auth/refresh"
+        }
+    },
+    "cabb43dd-6161-4140-8ebf-03b6fb045a0b": {
+        "id": "588641ff-d92a-42e2-a72c-72fd728673b1",
+        "name": "Google",
+        "designId": "deba54df-0e80-4187-a68b-4ad3e4ba2b89",
+        "pluginId": "cabb43dd-6161-4140-8ebf-03b6fb045a0b",
+        "publicData": {}
+    }
+}

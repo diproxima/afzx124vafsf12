@@ -1,0 +1,6122 @@
+[
+  {
+    "name": "acorn",
+    "class": "ph ph-acorn"
+  },
+  {
+    "name": "address-book",
+    "class": "ph ph-address-book"
+  },
+  {
+    "name": "address-book-tabs",
+    "class": "ph ph-address-book-tabs"
+  },
+  {
+    "name": "air-traffic-control",
+    "class": "ph ph-air-traffic-control"
+  },
+  {
+    "name": "airplane",
+    "class": "ph ph-airplane"
+  },
+  {
+    "name": "airplane-in-flight",
+    "class": "ph ph-airplane-in-flight"
+  },
+  {
+    "name": "airplane-landing",
+    "class": "ph ph-airplane-landing"
+  },
+  {
+    "name": "airplane-takeoff",
+    "class": "ph ph-airplane-takeoff"
+  },
+  {
+    "name": "airplane-taxiing",
+    "class": "ph ph-airplane-taxiing"
+  },
+  {
+    "name": "airplane-tilt",
+    "class": "ph ph-airplane-tilt"
+  },
+  {
+    "name": "airplay",
+    "class": "ph ph-airplay"
+  },
+  {
+    "name": "alarm",
+    "class": "ph ph-alarm"
+  },
+  {
+    "name": "alien",
+    "class": "ph ph-alien"
+  },
+  {
+    "name": "align-bottom",
+    "class": "ph ph-align-bottom"
+  },
+  {
+    "name": "align-bottom-simple",
+    "class": "ph ph-align-bottom-simple"
+  },
+  {
+    "name": "align-center-horizontal",
+    "class": "ph ph-align-center-horizontal"
+  },
+  {
+    "name": "align-center-horizontal-simple",
+    "class": "ph ph-align-center-horizontal-simple"
+  },
+  {
+    "name": "align-center-vertical",
+    "class": "ph ph-align-center-vertical"
+  },
+  {
+    "name": "align-center-vertical-simple",
+    "class": "ph ph-align-center-vertical-simple"
+  },
+  {
+    "name": "align-left",
+    "class": "ph ph-align-left"
+  },
+  {
+    "name": "align-left-simple",
+    "class": "ph ph-align-left-simple"
+  },
+  {
+    "name": "align-right",
+    "class": "ph ph-align-right"
+  },
+  {
+    "name": "align-right-simple",
+    "class": "ph ph-align-right-simple"
+  },
+  {
+    "name": "align-top",
+    "class": "ph ph-align-top"
+  },
+  {
+    "name": "align-top-simple",
+    "class": "ph ph-align-top-simple"
+  },
+  {
+    "name": "amazon-logo",
+    "class": "ph ph-amazon-logo"
+  },
+  {
+    "name": "ambulance",
+    "class": "ph ph-ambulance"
+  },
+  {
+    "name": "anchor",
+    "class": "ph ph-anchor"
+  },
+  {
+    "name": "anchor-simple",
+    "class": "ph ph-anchor-simple"
+  },
+  {
+    "name": "android-logo",
+    "class": "ph ph-android-logo"
+  },
+  {
+    "name": "angle",
+    "class": "ph ph-angle"
+  },
+  {
+    "name": "angular-logo",
+    "class": "ph ph-angular-logo"
+  },
+  {
+    "name": "aperture",
+    "class": "ph ph-aperture"
+  },
+  {
+    "name": "app-store-logo",
+    "class": "ph ph-app-store-logo"
+  },
+  {
+    "name": "app-window",
+    "class": "ph ph-app-window"
+  },
+  {
+    "name": "apple-logo",
+    "class": "ph ph-apple-logo"
+  },
+  {
+    "name": "apple-podcasts-logo",
+    "class": "ph ph-apple-podcasts-logo"
+  },
+  {
+    "name": "approximate-equals",
+    "class": "ph ph-approximate-equals"
+  },
+  {
+    "name": "archive",
+    "class": "ph ph-archive"
+  },
+  {
+    "name": "armchair",
+    "class": "ph ph-armchair"
+  },
+  {
+    "name": "arrow-arc-left",
+    "class": "ph ph-arrow-arc-left"
+  },
+  {
+    "name": "arrow-arc-right",
+    "class": "ph ph-arrow-arc-right"
+  },
+  {
+    "name": "arrow-bend-double-up-left",
+    "class": "ph ph-arrow-bend-double-up-left"
+  },
+  {
+    "name": "arrow-bend-double-up-right",
+    "class": "ph ph-arrow-bend-double-up-right"
+  },
+  {
+    "name": "arrow-bend-down-left",
+    "class": "ph ph-arrow-bend-down-left"
+  },
+  {
+    "name": "arrow-bend-down-right",
+    "class": "ph ph-arrow-bend-down-right"
+  },
+  {
+    "name": "arrow-bend-left-down",
+    "class": "ph ph-arrow-bend-left-down"
+  },
+  {
+    "name": "arrow-bend-left-up",
+    "class": "ph ph-arrow-bend-left-up"
+  },
+  {
+    "name": "arrow-bend-right-down",
+    "class": "ph ph-arrow-bend-right-down"
+  },
+  {
+    "name": "arrow-bend-right-up",
+    "class": "ph ph-arrow-bend-right-up"
+  },
+  {
+    "name": "arrow-bend-up-left",
+    "class": "ph ph-arrow-bend-up-left"
+  },
+  {
+    "name": "arrow-bend-up-right",
+    "class": "ph ph-arrow-bend-up-right"
+  },
+  {
+    "name": "arrow-circle-down",
+    "class": "ph ph-arrow-circle-down"
+  },
+  {
+    "name": "arrow-circle-down-left",
+    "class": "ph ph-arrow-circle-down-left"
+  },
+  {
+    "name": "arrow-circle-down-right",
+    "class": "ph ph-arrow-circle-down-right"
+  },
+  {
+    "name": "arrow-circle-left",
+    "class": "ph ph-arrow-circle-left"
+  },
+  {
+    "name": "arrow-circle-right",
+    "class": "ph ph-arrow-circle-right"
+  },
+  {
+    "name": "arrow-circle-up",
+    "class": "ph ph-arrow-circle-up"
+  },
+  {
+    "name": "arrow-circle-up-left",
+    "class": "ph ph-arrow-circle-up-left"
+  },
+  {
+    "name": "arrow-circle-up-right",
+    "class": "ph ph-arrow-circle-up-right"
+  },
+  {
+    "name": "arrow-clockwise",
+    "class": "ph ph-arrow-clockwise"
+  },
+  {
+    "name": "arrow-counter-clockwise",
+    "class": "ph ph-arrow-counter-clockwise"
+  },
+  {
+    "name": "arrow-down",
+    "class": "ph ph-arrow-down"
+  },
+  {
+    "name": "arrow-down-left",
+    "class": "ph ph-arrow-down-left"
+  },
+  {
+    "name": "arrow-down-right",
+    "class": "ph ph-arrow-down-right"
+  },
+  {
+    "name": "arrow-elbow-down-left",
+    "class": "ph ph-arrow-elbow-down-left"
+  },
+  {
+    "name": "arrow-elbow-down-right",
+    "class": "ph ph-arrow-elbow-down-right"
+  },
+  {
+    "name": "arrow-elbow-left",
+    "class": "ph ph-arrow-elbow-left"
+  },
+  {
+    "name": "arrow-elbow-left-down",
+    "class": "ph ph-arrow-elbow-left-down"
+  },
+  {
+    "name": "arrow-elbow-left-up",
+    "class": "ph ph-arrow-elbow-left-up"
+  },
+  {
+    "name": "arrow-elbow-right",
+    "class": "ph ph-arrow-elbow-right"
+  },
+  {
+    "name": "arrow-elbow-right-down",
+    "class": "ph ph-arrow-elbow-right-down"
+  },
+  {
+    "name": "arrow-elbow-right-up",
+    "class": "ph ph-arrow-elbow-right-up"
+  },
+  {
+    "name": "arrow-elbow-up-left",
+    "class": "ph ph-arrow-elbow-up-left"
+  },
+  {
+    "name": "arrow-elbow-up-right",
+    "class": "ph ph-arrow-elbow-up-right"
+  },
+  {
+    "name": "arrow-fat-down",
+    "class": "ph ph-arrow-fat-down"
+  },
+  {
+    "name": "arrow-fat-left",
+    "class": "ph ph-arrow-fat-left"
+  },
+  {
+    "name": "arrow-fat-line-down",
+    "class": "ph ph-arrow-fat-line-down"
+  },
+  {
+    "name": "arrow-fat-line-left",
+    "class": "ph ph-arrow-fat-line-left"
+  },
+  {
+    "name": "arrow-fat-line-right",
+    "class": "ph ph-arrow-fat-line-right"
+  },
+  {
+    "name": "arrow-fat-line-up",
+    "class": "ph ph-arrow-fat-line-up"
+  },
+  {
+    "name": "arrow-fat-lines-down",
+    "class": "ph ph-arrow-fat-lines-down"
+  },
+  {
+    "name": "arrow-fat-lines-left",
+    "class": "ph ph-arrow-fat-lines-left"
+  },
+  {
+    "name": "arrow-fat-lines-right",
+    "class": "ph ph-arrow-fat-lines-right"
+  },
+  {
+    "name": "arrow-fat-lines-up",
+    "class": "ph ph-arrow-fat-lines-up"
+  },
+  {
+    "name": "arrow-fat-right",
+    "class": "ph ph-arrow-fat-right"
+  },
+  {
+    "name": "arrow-fat-up",
+    "class": "ph ph-arrow-fat-up"
+  },
+  {
+    "name": "arrow-left",
+    "class": "ph ph-arrow-left"
+  },
+  {
+    "name": "arrow-line-down",
+    "class": "ph ph-arrow-line-down"
+  },
+  {
+    "name": "arrow-line-down-left",
+    "class": "ph ph-arrow-line-down-left"
+  },
+  {
+    "name": "arrow-line-down-right",
+    "class": "ph ph-arrow-line-down-right"
+  },
+  {
+    "name": "arrow-line-left",
+    "class": "ph ph-arrow-line-left"
+  },
+  {
+    "name": "arrow-line-right",
+    "class": "ph ph-arrow-line-right"
+  },
+  {
+    "name": "arrow-line-up",
+    "class": "ph ph-arrow-line-up"
+  },
+  {
+    "name": "arrow-line-up-left",
+    "class": "ph ph-arrow-line-up-left"
+  },
+  {
+    "name": "arrow-line-up-right",
+    "class": "ph ph-arrow-line-up-right"
+  },
+  {
+    "name": "arrow-right",
+    "class": "ph ph-arrow-right"
+  },
+  {
+    "name": "arrow-square-down",
+    "class": "ph ph-arrow-square-down"
+  },
+  {
+    "name": "arrow-square-down-left",
+    "class": "ph ph-arrow-square-down-left"
+  },
+  {
+    "name": "arrow-square-down-right",
+    "class": "ph ph-arrow-square-down-right"
+  },
+  {
+    "name": "arrow-square-in",
+    "class": "ph ph-arrow-square-in"
+  },
+  {
+    "name": "arrow-square-left",
+    "class": "ph ph-arrow-square-left"
+  },
+  {
+    "name": "arrow-square-out",
+    "class": "ph ph-arrow-square-out"
+  },
+  {
+    "name": "arrow-square-right",
+    "class": "ph ph-arrow-square-right"
+  },
+  {
+    "name": "arrow-square-up",
+    "class": "ph ph-arrow-square-up"
+  },
+  {
+    "name": "arrow-square-up-left",
+    "class": "ph ph-arrow-square-up-left"
+  },
+  {
+    "name": "arrow-square-up-right",
+    "class": "ph ph-arrow-square-up-right"
+  },
+  {
+    "name": "arrow-u-down-left",
+    "class": "ph ph-arrow-u-down-left"
+  },
+  {
+    "name": "arrow-u-down-right",
+    "class": "ph ph-arrow-u-down-right"
+  },
+  {
+    "name": "arrow-u-left-down",
+    "class": "ph ph-arrow-u-left-down"
+  },
+  {
+    "name": "arrow-u-left-up",
+    "class": "ph ph-arrow-u-left-up"
+  },
+  {
+    "name": "arrow-u-right-down",
+    "class": "ph ph-arrow-u-right-down"
+  },
+  {
+    "name": "arrow-u-right-up",
+    "class": "ph ph-arrow-u-right-up"
+  },
+  {
+    "name": "arrow-u-up-left",
+    "class": "ph ph-arrow-u-up-left"
+  },
+  {
+    "name": "arrow-u-up-right",
+    "class": "ph ph-arrow-u-up-right"
+  },
+  {
+    "name": "arrow-up",
+    "class": "ph ph-arrow-up"
+  },
+  {
+    "name": "arrow-up-left",
+    "class": "ph ph-arrow-up-left"
+  },
+  {
+    "name": "arrow-up-right",
+    "class": "ph ph-arrow-up-right"
+  },
+  {
+    "name": "arrows-clockwise",
+    "class": "ph ph-arrows-clockwise"
+  },
+  {
+    "name": "arrows-counter-clockwise",
+    "class": "ph ph-arrows-counter-clockwise"
+  },
+  {
+    "name": "arrows-down-up",
+    "class": "ph ph-arrows-down-up"
+  },
+  {
+    "name": "arrows-horizontal",
+    "class": "ph ph-arrows-horizontal"
+  },
+  {
+    "name": "arrows-in",
+    "class": "ph ph-arrows-in"
+  },
+  {
+    "name": "arrows-in-cardinal",
+    "class": "ph ph-arrows-in-cardinal"
+  },
+  {
+    "name": "arrows-in-line-horizontal",
+    "class": "ph ph-arrows-in-line-horizontal"
+  },
+  {
+    "name": "arrows-in-line-vertical",
+    "class": "ph ph-arrows-in-line-vertical"
+  },
+  {
+    "name": "arrows-in-simple",
+    "class": "ph ph-arrows-in-simple"
+  },
+  {
+    "name": "arrows-left-right",
+    "class": "ph ph-arrows-left-right"
+  },
+  {
+    "name": "arrows-merge",
+    "class": "ph ph-arrows-merge"
+  },
+  {
+    "name": "arrows-out",
+    "class": "ph ph-arrows-out"
+  },
+  {
+    "name": "arrows-out-cardinal",
+    "class": "ph ph-arrows-out-cardinal"
+  },
+  {
+    "name": "arrows-out-line-horizontal",
+    "class": "ph ph-arrows-out-line-horizontal"
+  },
+  {
+    "name": "arrows-out-line-vertical",
+    "class": "ph ph-arrows-out-line-vertical"
+  },
+  {
+    "name": "arrows-out-simple",
+    "class": "ph ph-arrows-out-simple"
+  },
+  {
+    "name": "arrows-split",
+    "class": "ph ph-arrows-split"
+  },
+  {
+    "name": "arrows-vertical",
+    "class": "ph ph-arrows-vertical"
+  },
+  {
+    "name": "article",
+    "class": "ph ph-article"
+  },
+  {
+    "name": "article-medium",
+    "class": "ph ph-article-medium"
+  },
+  {
+    "name": "article-ny-times",
+    "class": "ph ph-article-ny-times"
+  },
+  {
+    "name": "asclepius",
+    "class": "ph ph-asclepius"
+  },
+  {
+    "name": "caduceus",
+    "class": "ph ph-caduceus"
+  },
+  {
+    "name": "asterisk",
+    "class": "ph ph-asterisk"
+  },
+  {
+    "name": "asterisk-simple",
+    "class": "ph ph-asterisk-simple"
+  },
+  {
+    "name": "at",
+    "class": "ph ph-at"
+  },
+  {
+    "name": "atom",
+    "class": "ph ph-atom"
+  },
+  {
+    "name": "avocado",
+    "class": "ph ph-avocado"
+  },
+  {
+    "name": "axe",
+    "class": "ph ph-axe"
+  },
+  {
+    "name": "baby",
+    "class": "ph ph-baby"
+  },
+  {
+    "name": "baby-carriage",
+    "class": "ph ph-baby-carriage"
+  },
+  {
+    "name": "backpack",
+    "class": "ph ph-backpack"
+  },
+  {
+    "name": "backspace",
+    "class": "ph ph-backspace"
+  },
+  {
+    "name": "bag",
+    "class": "ph ph-bag"
+  },
+  {
+    "name": "bag-simple",
+    "class": "ph ph-bag-simple"
+  },
+  {
+    "name": "balloon",
+    "class": "ph ph-balloon"
+  },
+  {
+    "name": "bandaids",
+    "class": "ph ph-bandaids"
+  },
+  {
+    "name": "bank",
+    "class": "ph ph-bank"
+  },
+  {
+    "name": "barbell",
+    "class": "ph ph-barbell"
+  },
+  {
+    "name": "barcode",
+    "class": "ph ph-barcode"
+  },
+  {
+    "name": "barn",
+    "class": "ph ph-barn"
+  },
+  {
+    "name": "barricade",
+    "class": "ph ph-barricade"
+  },
+  {
+    "name": "baseball",
+    "class": "ph ph-baseball"
+  },
+  {
+    "name": "baseball-cap",
+    "class": "ph ph-baseball-cap"
+  },
+  {
+    "name": "baseball-helmet",
+    "class": "ph ph-baseball-helmet"
+  },
+  {
+    "name": "basket",
+    "class": "ph ph-basket"
+  },
+  {
+    "name": "basketball",
+    "class": "ph ph-basketball"
+  },
+  {
+    "name": "bathtub",
+    "class": "ph ph-bathtub"
+  },
+  {
+    "name": "battery-charging",
+    "class": "ph ph-battery-charging"
+  },
+  {
+    "name": "battery-charging-vertical",
+    "class": "ph ph-battery-charging-vertical"
+  },
+  {
+    "name": "battery-empty",
+    "class": "ph ph-battery-empty"
+  },
+  {
+    "name": "battery-full",
+    "class": "ph ph-battery-full"
+  },
+  {
+    "name": "battery-high",
+    "class": "ph ph-battery-high"
+  },
+  {
+    "name": "battery-low",
+    "class": "ph ph-battery-low"
+  },
+  {
+    "name": "battery-medium",
+    "class": "ph ph-battery-medium"
+  },
+  {
+    "name": "battery-plus",
+    "class": "ph ph-battery-plus"
+  },
+  {
+    "name": "battery-plus-vertical",
+    "class": "ph ph-battery-plus-vertical"
+  },
+  {
+    "name": "battery-vertical-empty",
+    "class": "ph ph-battery-vertical-empty"
+  },
+  {
+    "name": "battery-vertical-full",
+    "class": "ph ph-battery-vertical-full"
+  },
+  {
+    "name": "battery-vertical-high",
+    "class": "ph ph-battery-vertical-high"
+  },
+  {
+    "name": "battery-vertical-low",
+    "class": "ph ph-battery-vertical-low"
+  },
+  {
+    "name": "battery-vertical-medium",
+    "class": "ph ph-battery-vertical-medium"
+  },
+  {
+    "name": "battery-warning",
+    "class": "ph ph-battery-warning"
+  },
+  {
+    "name": "battery-warning-vertical",
+    "class": "ph ph-battery-warning-vertical"
+  },
+  {
+    "name": "beach-ball",
+    "class": "ph ph-beach-ball"
+  },
+  {
+    "name": "beanie",
+    "class": "ph ph-beanie"
+  },
+  {
+    "name": "bed",
+    "class": "ph ph-bed"
+  },
+  {
+    "name": "beer-bottle",
+    "class": "ph ph-beer-bottle"
+  },
+  {
+    "name": "beer-stein",
+    "class": "ph ph-beer-stein"
+  },
+  {
+    "name": "behance-logo",
+    "class": "ph ph-behance-logo"
+  },
+  {
+    "name": "bell",
+    "class": "ph ph-bell"
+  },
+  {
+    "name": "bell-ringing",
+    "class": "ph ph-bell-ringing"
+  },
+  {
+    "name": "bell-simple",
+    "class": "ph ph-bell-simple"
+  },
+  {
+    "name": "bell-simple-ringing",
+    "class": "ph ph-bell-simple-ringing"
+  },
+  {
+    "name": "bell-simple-slash",
+    "class": "ph ph-bell-simple-slash"
+  },
+  {
+    "name": "bell-simple-z",
+    "class": "ph ph-bell-simple-z"
+  },
+  {
+    "name": "bell-slash",
+    "class": "ph ph-bell-slash"
+  },
+  {
+    "name": "bell-z",
+    "class": "ph ph-bell-z"
+  },
+  {
+    "name": "belt",
+    "class": "ph ph-belt"
+  },
+  {
+    "name": "bezier-curve",
+    "class": "ph ph-bezier-curve"
+  },
+  {
+    "name": "bicycle",
+    "class": "ph ph-bicycle"
+  },
+  {
+    "name": "binary",
+    "class": "ph ph-binary"
+  },
+  {
+    "name": "binoculars",
+    "class": "ph ph-binoculars"
+  },
+  {
+    "name": "biohazard",
+    "class": "ph ph-biohazard"
+  },
+  {
+    "name": "bird",
+    "class": "ph ph-bird"
+  },
+  {
+    "name": "blueprint",
+    "class": "ph ph-blueprint"
+  },
+  {
+    "name": "bluetooth",
+    "class": "ph ph-bluetooth"
+  },
+  {
+    "name": "bluetooth-connected",
+    "class": "ph ph-bluetooth-connected"
+  },
+  {
+    "name": "bluetooth-slash",
+    "class": "ph ph-bluetooth-slash"
+  },
+  {
+    "name": "bluetooth-x",
+    "class": "ph ph-bluetooth-x"
+  },
+  {
+    "name": "boat",
+    "class": "ph ph-boat"
+  },
+  {
+    "name": "bomb",
+    "class": "ph ph-bomb"
+  },
+  {
+    "name": "bone",
+    "class": "ph ph-bone"
+  },
+  {
+    "name": "book",
+    "class": "ph ph-book"
+  },
+  {
+    "name": "book-bookmark",
+    "class": "ph ph-book-bookmark"
+  },
+  {
+    "name": "book-open",
+    "class": "ph ph-book-open"
+  },
+  {
+    "name": "book-open-text",
+    "class": "ph ph-book-open-text"
+  },
+  {
+    "name": "book-open-user",
+    "class": "ph ph-book-open-user"
+  },
+  {
+    "name": "bookmark",
+    "class": "ph ph-bookmark"
+  },
+  {
+    "name": "bookmark-simple",
+    "class": "ph ph-bookmark-simple"
+  },
+  {
+    "name": "bookmarks",
+    "class": "ph ph-bookmarks"
+  },
+  {
+    "name": "bookmarks-simple",
+    "class": "ph ph-bookmarks-simple"
+  },
+  {
+    "name": "books",
+    "class": "ph ph-books"
+  },
+  {
+    "name": "boot",
+    "class": "ph ph-boot"
+  },
+  {
+    "name": "boules",
+    "class": "ph ph-boules"
+  },
+  {
+    "name": "bounding-box",
+    "class": "ph ph-bounding-box"
+  },
+  {
+    "name": "bowl-food",
+    "class": "ph ph-bowl-food"
+  },
+  {
+    "name": "bowl-steam",
+    "class": "ph ph-bowl-steam"
+  },
+  {
+    "name": "bowling-ball",
+    "class": "ph ph-bowling-ball"
+  },
+  {
+    "name": "box-arrow-down",
+    "class": "ph ph-box-arrow-down"
+  },
+  {
+    "name": "archive-box",
+    "class": "ph ph-archive-box"
+  },
+  {
+    "name": "box-arrow-up",
+    "class": "ph ph-box-arrow-up"
+  },
+  {
+    "name": "boxing-glove",
+    "class": "ph ph-boxing-glove"
+  },
+  {
+    "name": "brackets-angle",
+    "class": "ph ph-brackets-angle"
+  },
+  {
+    "name": "brackets-curly",
+    "class": "ph ph-brackets-curly"
+  },
+  {
+    "name": "brackets-round",
+    "class": "ph ph-brackets-round"
+  },
+  {
+    "name": "brackets-square",
+    "class": "ph ph-brackets-square"
+  },
+  {
+    "name": "brain",
+    "class": "ph ph-brain"
+  },
+  {
+    "name": "brandy",
+    "class": "ph ph-brandy"
+  },
+  {
+    "name": "bread",
+    "class": "ph ph-bread"
+  },
+  {
+    "name": "bridge",
+    "class": "ph ph-bridge"
+  },
+  {
+    "name": "briefcase",
+    "class": "ph ph-briefcase"
+  },
+  {
+    "name": "briefcase-metal",
+    "class": "ph ph-briefcase-metal"
+  },
+  {
+    "name": "broadcast",
+    "class": "ph ph-broadcast"
+  },
+  {
+    "name": "broom",
+    "class": "ph ph-broom"
+  },
+  {
+    "name": "browser",
+    "class": "ph ph-browser"
+  },
+  {
+    "name": "browsers",
+    "class": "ph ph-browsers"
+  },
+  {
+    "name": "bug",
+    "class": "ph ph-bug"
+  },
+  {
+    "name": "bug-beetle",
+    "class": "ph ph-bug-beetle"
+  },
+  {
+    "name": "bug-droid",
+    "class": "ph ph-bug-droid"
+  },
+  {
+    "name": "building",
+    "class": "ph ph-building"
+  },
+  {
+    "name": "building-apartment",
+    "class": "ph ph-building-apartment"
+  },
+  {
+    "name": "building-office",
+    "class": "ph ph-building-office"
+  },
+  {
+    "name": "buildings",
+    "class": "ph ph-buildings"
+  },
+  {
+    "name": "bulldozer",
+    "class": "ph ph-bulldozer"
+  },
+  {
+    "name": "bus",
+    "class": "ph ph-bus"
+  },
+  {
+    "name": "butterfly",
+    "class": "ph ph-butterfly"
+  },
+  {
+    "name": "cable-car",
+    "class": "ph ph-cable-car"
+  },
+  {
+    "name": "cactus",
+    "class": "ph ph-cactus"
+  },
+  {
+    "name": "cake",
+    "class": "ph ph-cake"
+  },
+  {
+    "name": "calculator",
+    "class": "ph ph-calculator"
+  },
+  {
+    "name": "calendar",
+    "class": "ph ph-calendar"
+  },
+  {
+    "name": "calendar-blank",
+    "class": "ph ph-calendar-blank"
+  },
+  {
+    "name": "calendar-check",
+    "class": "ph ph-calendar-check"
+  },
+  {
+    "name": "calendar-dot",
+    "class": "ph ph-calendar-dot"
+  },
+  {
+    "name": "calendar-dots",
+    "class": "ph ph-calendar-dots"
+  },
+  {
+    "name": "calendar-heart",
+    "class": "ph ph-calendar-heart"
+  },
+  {
+    "name": "calendar-minus",
+    "class": "ph ph-calendar-minus"
+  },
+  {
+    "name": "calendar-plus",
+    "class": "ph ph-calendar-plus"
+  },
+  {
+    "name": "calendar-slash",
+    "class": "ph ph-calendar-slash"
+  },
+  {
+    "name": "calendar-star",
+    "class": "ph ph-calendar-star"
+  },
+  {
+    "name": "calendar-x",
+    "class": "ph ph-calendar-x"
+  },
+  {
+    "name": "call-bell",
+    "class": "ph ph-call-bell"
+  },
+  {
+    "name": "camera",
+    "class": "ph ph-camera"
+  },
+  {
+    "name": "camera-plus",
+    "class": "ph ph-camera-plus"
+  },
+  {
+    "name": "camera-rotate",
+    "class": "ph ph-camera-rotate"
+  },
+  {
+    "name": "camera-slash",
+    "class": "ph ph-camera-slash"
+  },
+  {
+    "name": "campfire",
+    "class": "ph ph-campfire"
+  },
+  {
+    "name": "car",
+    "class": "ph ph-car"
+  },
+  {
+    "name": "car-battery",
+    "class": "ph ph-car-battery"
+  },
+  {
+    "name": "car-profile",
+    "class": "ph ph-car-profile"
+  },
+  {
+    "name": "car-simple",
+    "class": "ph ph-car-simple"
+  },
+  {
+    "name": "cardholder",
+    "class": "ph ph-cardholder"
+  },
+  {
+    "name": "cards",
+    "class": "ph ph-cards"
+  },
+  {
+    "name": "cards-three",
+    "class": "ph ph-cards-three"
+  },
+  {
+    "name": "caret-circle-double-down",
+    "class": "ph ph-caret-circle-double-down"
+  },
+  {
+    "name": "caret-circle-double-left",
+    "class": "ph ph-caret-circle-double-left"
+  },
+  {
+    "name": "caret-circle-double-right",
+    "class": "ph ph-caret-circle-double-right"
+  },
+  {
+    "name": "caret-circle-double-up",
+    "class": "ph ph-caret-circle-double-up"
+  },
+  {
+    "name": "caret-circle-down",
+    "class": "ph ph-caret-circle-down"
+  },
+  {
+    "name": "caret-circle-left",
+    "class": "ph ph-caret-circle-left"
+  },
+  {
+    "name": "caret-circle-right",
+    "class": "ph ph-caret-circle-right"
+  },
+  {
+    "name": "caret-circle-up",
+    "class": "ph ph-caret-circle-up"
+  },
+  {
+    "name": "caret-circle-up-down",
+    "class": "ph ph-caret-circle-up-down"
+  },
+  {
+    "name": "caret-double-down",
+    "class": "ph ph-caret-double-down"
+  },
+  {
+    "name": "caret-double-left",
+    "class": "ph ph-caret-double-left"
+  },
+  {
+    "name": "caret-double-right",
+    "class": "ph ph-caret-double-right"
+  },
+  {
+    "name": "caret-double-up",
+    "class": "ph ph-caret-double-up"
+  },
+  {
+    "name": "caret-down",
+    "class": "ph ph-caret-down"
+  },
+  {
+    "name": "caret-left",
+    "class": "ph ph-caret-left"
+  },
+  {
+    "name": "caret-line-down",
+    "class": "ph ph-caret-line-down"
+  },
+  {
+    "name": "caret-line-left",
+    "class": "ph ph-caret-line-left"
+  },
+  {
+    "name": "caret-line-right",
+    "class": "ph ph-caret-line-right"
+  },
+  {
+    "name": "caret-line-up",
+    "class": "ph ph-caret-line-up"
+  },
+  {
+    "name": "caret-right",
+    "class": "ph ph-caret-right"
+  },
+  {
+    "name": "caret-up",
+    "class": "ph ph-caret-up"
+  },
+  {
+    "name": "caret-up-down",
+    "class": "ph ph-caret-up-down"
+  },
+  {
+    "name": "carrot",
+    "class": "ph ph-carrot"
+  },
+  {
+    "name": "cash-register",
+    "class": "ph ph-cash-register"
+  },
+  {
+    "name": "cassette-tape",
+    "class": "ph ph-cassette-tape"
+  },
+  {
+    "name": "castle-turret",
+    "class": "ph ph-castle-turret"
+  },
+  {
+    "name": "cat",
+    "class": "ph ph-cat"
+  },
+  {
+    "name": "cell-signal-full",
+    "class": "ph ph-cell-signal-full"
+  },
+  {
+    "name": "cell-signal-high",
+    "class": "ph ph-cell-signal-high"
+  },
+  {
+    "name": "cell-signal-low",
+    "class": "ph ph-cell-signal-low"
+  },
+  {
+    "name": "cell-signal-medium",
+    "class": "ph ph-cell-signal-medium"
+  },
+  {
+    "name": "cell-signal-none",
+    "class": "ph ph-cell-signal-none"
+  },
+  {
+    "name": "cell-signal-slash",
+    "class": "ph ph-cell-signal-slash"
+  },
+  {
+    "name": "cell-signal-x",
+    "class": "ph ph-cell-signal-x"
+  },
+  {
+    "name": "cell-tower",
+    "class": "ph ph-cell-tower"
+  },
+  {
+    "name": "certificate",
+    "class": "ph ph-certificate"
+  },
+  {
+    "name": "chair",
+    "class": "ph ph-chair"
+  },
+  {
+    "name": "chalkboard",
+    "class": "ph ph-chalkboard"
+  },
+  {
+    "name": "chalkboard-simple",
+    "class": "ph ph-chalkboard-simple"
+  },
+  {
+    "name": "chalkboard-teacher",
+    "class": "ph ph-chalkboard-teacher"
+  },
+  {
+    "name": "champagne",
+    "class": "ph ph-champagne"
+  },
+  {
+    "name": "charging-station",
+    "class": "ph ph-charging-station"
+  },
+  {
+    "name": "chart-bar",
+    "class": "ph ph-chart-bar"
+  },
+  {
+    "name": "chart-bar-horizontal",
+    "class": "ph ph-chart-bar-horizontal"
+  },
+  {
+    "name": "chart-donut",
+    "class": "ph ph-chart-donut"
+  },
+  {
+    "name": "chart-line",
+    "class": "ph ph-chart-line"
+  },
+  {
+    "name": "chart-line-down",
+    "class": "ph ph-chart-line-down"
+  },
+  {
+    "name": "chart-line-up",
+    "class": "ph ph-chart-line-up"
+  },
+  {
+    "name": "chart-pie",
+    "class": "ph ph-chart-pie"
+  },
+  {
+    "name": "chart-pie-slice",
+    "class": "ph ph-chart-pie-slice"
+  },
+  {
+    "name": "chart-polar",
+    "class": "ph ph-chart-polar"
+  },
+  {
+    "name": "chart-scatter",
+    "class": "ph ph-chart-scatter"
+  },
+  {
+    "name": "chat",
+    "class": "ph ph-chat"
+  },
+  {
+    "name": "chat-centered",
+    "class": "ph ph-chat-centered"
+  },
+  {
+    "name": "chat-centered-dots",
+    "class": "ph ph-chat-centered-dots"
+  },
+  {
+    "name": "chat-centered-slash",
+    "class": "ph ph-chat-centered-slash"
+  },
+  {
+    "name": "chat-centered-text",
+    "class": "ph ph-chat-centered-text"
+  },
+  {
+    "name": "chat-circle",
+    "class": "ph ph-chat-circle"
+  },
+  {
+    "name": "chat-circle-dots",
+    "class": "ph ph-chat-circle-dots"
+  },
+  {
+    "name": "chat-circle-slash",
+    "class": "ph ph-chat-circle-slash"
+  },
+  {
+    "name": "chat-circle-text",
+    "class": "ph ph-chat-circle-text"
+  },
+  {
+    "name": "chat-dots",
+    "class": "ph ph-chat-dots"
+  },
+  {
+    "name": "chat-slash",
+    "class": "ph ph-chat-slash"
+  },
+  {
+    "name": "chat-teardrop",
+    "class": "ph ph-chat-teardrop"
+  },
+  {
+    "name": "chat-teardrop-dots",
+    "class": "ph ph-chat-teardrop-dots"
+  },
+  {
+    "name": "chat-teardrop-slash",
+    "class": "ph ph-chat-teardrop-slash"
+  },
+  {
+    "name": "chat-teardrop-text",
+    "class": "ph ph-chat-teardrop-text"
+  },
+  {
+    "name": "chat-text",
+    "class": "ph ph-chat-text"
+  },
+  {
+    "name": "chats",
+    "class": "ph ph-chats"
+  },
+  {
+    "name": "chats-circle",
+    "class": "ph ph-chats-circle"
+  },
+  {
+    "name": "chats-teardrop",
+    "class": "ph ph-chats-teardrop"
+  },
+  {
+    "name": "check",
+    "class": "ph ph-check"
+  },
+  {
+    "name": "check-circle",
+    "class": "ph ph-check-circle"
+  },
+  {
+    "name": "check-fat",
+    "class": "ph ph-check-fat"
+  },
+  {
+    "name": "check-square",
+    "class": "ph ph-check-square"
+  },
+  {
+    "name": "check-square-offset",
+    "class": "ph ph-check-square-offset"
+  },
+  {
+    "name": "checkerboard",
+    "class": "ph ph-checkerboard"
+  },
+  {
+    "name": "checks",
+    "class": "ph ph-checks"
+  },
+  {
+    "name": "cheers",
+    "class": "ph ph-cheers"
+  },
+  {
+    "name": "cheese",
+    "class": "ph ph-cheese"
+  },
+  {
+    "name": "chef-hat",
+    "class": "ph ph-chef-hat"
+  },
+  {
+    "name": "cherries",
+    "class": "ph ph-cherries"
+  },
+  {
+    "name": "church",
+    "class": "ph ph-church"
+  },
+  {
+    "name": "cigarette",
+    "class": "ph ph-cigarette"
+  },
+  {
+    "name": "cigarette-slash",
+    "class": "ph ph-cigarette-slash"
+  },
+  {
+    "name": "circle",
+    "class": "ph ph-circle"
+  },
+  {
+    "name": "circle-dashed",
+    "class": "ph ph-circle-dashed"
+  },
+  {
+    "name": "circle-half",
+    "class": "ph ph-circle-half"
+  },
+  {
+    "name": "circle-half-tilt",
+    "class": "ph ph-circle-half-tilt"
+  },
+  {
+    "name": "circle-notch",
+    "class": "ph ph-circle-notch"
+  },
+  {
+    "name": "circles-four",
+    "class": "ph ph-circles-four"
+  },
+  {
+    "name": "circles-three",
+    "class": "ph ph-circles-three"
+  },
+  {
+    "name": "circles-three-plus",
+    "class": "ph ph-circles-three-plus"
+  },
+  {
+    "name": "circuitry",
+    "class": "ph ph-circuitry"
+  },
+  {
+    "name": "city",
+    "class": "ph ph-city"
+  },
+  {
+    "name": "clipboard",
+    "class": "ph ph-clipboard"
+  },
+  {
+    "name": "clipboard-text",
+    "class": "ph ph-clipboard-text"
+  },
+  {
+    "name": "clock",
+    "class": "ph ph-clock"
+  },
+  {
+    "name": "clock-afternoon",
+    "class": "ph ph-clock-afternoon"
+  },
+  {
+    "name": "clock-clockwise",
+    "class": "ph ph-clock-clockwise"
+  },
+  {
+    "name": "clock-countdown",
+    "class": "ph ph-clock-countdown"
+  },
+  {
+    "name": "clock-counter-clockwise",
+    "class": "ph ph-clock-counter-clockwise"
+  },
+  {
+    "name": "clock-user",
+    "class": "ph ph-clock-user"
+  },
+  {
+    "name": "closed-captioning",
+    "class": "ph ph-closed-captioning"
+  },
+  {
+    "name": "cloud",
+    "class": "ph ph-cloud"
+  },
+  {
+    "name": "cloud-arrow-down",
+    "class": "ph ph-cloud-arrow-down"
+  },
+  {
+    "name": "cloud-arrow-up",
+    "class": "ph ph-cloud-arrow-up"
+  },
+  {
+    "name": "cloud-check",
+    "class": "ph ph-cloud-check"
+  },
+  {
+    "name": "cloud-fog",
+    "class": "ph ph-cloud-fog"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "ph ph-cloud-lightning"
+  },
+  {
+    "name": "cloud-moon",
+    "class": "ph ph-cloud-moon"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "ph ph-cloud-rain"
+  },
+  {
+    "name": "cloud-slash",
+    "class": "ph ph-cloud-slash"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "ph ph-cloud-snow"
+  },
+  {
+    "name": "cloud-sun",
+    "class": "ph ph-cloud-sun"
+  },
+  {
+    "name": "cloud-warning",
+    "class": "ph ph-cloud-warning"
+  },
+  {
+    "name": "cloud-x",
+    "class": "ph ph-cloud-x"
+  },
+  {
+    "name": "clover",
+    "class": "ph ph-clover"
+  },
+  {
+    "name": "club",
+    "class": "ph ph-club"
+  },
+  {
+    "name": "coat-hanger",
+    "class": "ph ph-coat-hanger"
+  },
+  {
+    "name": "coda-logo",
+    "class": "ph ph-coda-logo"
+  },
+  {
+    "name": "code",
+    "class": "ph ph-code"
+  },
+  {
+    "name": "code-block",
+    "class": "ph ph-code-block"
+  },
+  {
+    "name": "code-simple",
+    "class": "ph ph-code-simple"
+  },
+  {
+    "name": "codepen-logo",
+    "class": "ph ph-codepen-logo"
+  },
+  {
+    "name": "codesandbox-logo",
+    "class": "ph ph-codesandbox-logo"
+  },
+  {
+    "name": "coffee",
+    "class": "ph ph-coffee"
+  },
+  {
+    "name": "coffee-bean",
+    "class": "ph ph-coffee-bean"
+  },
+  {
+    "name": "coin",
+    "class": "ph ph-coin"
+  },
+  {
+    "name": "coin-vertical",
+    "class": "ph ph-coin-vertical"
+  },
+  {
+    "name": "coins",
+    "class": "ph ph-coins"
+  },
+  {
+    "name": "columns",
+    "class": "ph ph-columns"
+  },
+  {
+    "name": "columns-plus-left",
+    "class": "ph ph-columns-plus-left"
+  },
+  {
+    "name": "columns-plus-right",
+    "class": "ph ph-columns-plus-right"
+  },
+  {
+    "name": "command",
+    "class": "ph ph-command"
+  },
+  {
+    "name": "compass",
+    "class": "ph ph-compass"
+  },
+  {
+    "name": "compass-rose",
+    "class": "ph ph-compass-rose"
+  },
+  {
+    "name": "compass-tool",
+    "class": "ph ph-compass-tool"
+  },
+  {
+    "name": "computer-tower",
+    "class": "ph ph-computer-tower"
+  },
+  {
+    "name": "confetti",
+    "class": "ph ph-confetti"
+  },
+  {
+    "name": "contactless-payment",
+    "class": "ph ph-contactless-payment"
+  },
+  {
+    "name": "control",
+    "class": "ph ph-control"
+  },
+  {
+    "name": "cookie",
+    "class": "ph ph-cookie"
+  },
+  {
+    "name": "cooking-pot",
+    "class": "ph ph-cooking-pot"
+  },
+  {
+    "name": "copy",
+    "class": "ph ph-copy"
+  },
+  {
+    "name": "copy-simple",
+    "class": "ph ph-copy-simple"
+  },
+  {
+    "name": "copyleft",
+    "class": "ph ph-copyleft"
+  },
+  {
+    "name": "copyright",
+    "class": "ph ph-copyright"
+  },
+  {
+    "name": "corners-in",
+    "class": "ph ph-corners-in"
+  },
+  {
+    "name": "corners-out",
+    "class": "ph ph-corners-out"
+  },
+  {
+    "name": "couch",
+    "class": "ph ph-couch"
+  },
+  {
+    "name": "court-basketball",
+    "class": "ph ph-court-basketball"
+  },
+  {
+    "name": "cow",
+    "class": "ph ph-cow"
+  },
+  {
+    "name": "cowboy-hat",
+    "class": "ph ph-cowboy-hat"
+  },
+  {
+    "name": "cpu",
+    "class": "ph ph-cpu"
+  },
+  {
+    "name": "crane",
+    "class": "ph ph-crane"
+  },
+  {
+    "name": "crane-tower",
+    "class": "ph ph-crane-tower"
+  },
+  {
+    "name": "credit-card",
+    "class": "ph ph-credit-card"
+  },
+  {
+    "name": "cricket",
+    "class": "ph ph-cricket"
+  },
+  {
+    "name": "crop",
+    "class": "ph ph-crop"
+  },
+  {
+    "name": "cross",
+    "class": "ph ph-cross"
+  },
+  {
+    "name": "crosshair",
+    "class": "ph ph-crosshair"
+  },
+  {
+    "name": "crosshair-simple",
+    "class": "ph ph-crosshair-simple"
+  },
+  {
+    "name": "crown",
+    "class": "ph ph-crown"
+  },
+  {
+    "name": "crown-cross",
+    "class": "ph ph-crown-cross"
+  },
+  {
+    "name": "crown-simple",
+    "class": "ph ph-crown-simple"
+  },
+  {
+    "name": "cube",
+    "class": "ph ph-cube"
+  },
+  {
+    "name": "cube-focus",
+    "class": "ph ph-cube-focus"
+  },
+  {
+    "name": "cube-transparent",
+    "class": "ph ph-cube-transparent"
+  },
+  {
+    "name": "currency-btc",
+    "class": "ph ph-currency-btc"
+  },
+  {
+    "name": "currency-circle-dollar",
+    "class": "ph ph-currency-circle-dollar"
+  },
+  {
+    "name": "currency-cny",
+    "class": "ph ph-currency-cny"
+  },
+  {
+    "name": "currency-dollar",
+    "class": "ph ph-currency-dollar"
+  },
+  {
+    "name": "currency-dollar-simple",
+    "class": "ph ph-currency-dollar-simple"
+  },
+  {
+    "name": "currency-eth",
+    "class": "ph ph-currency-eth"
+  },
+  {
+    "name": "currency-eur",
+    "class": "ph ph-currency-eur"
+  },
+  {
+    "name": "currency-gbp",
+    "class": "ph ph-currency-gbp"
+  },
+  {
+    "name": "currency-inr",
+    "class": "ph ph-currency-inr"
+  },
+  {
+    "name": "currency-jpy",
+    "class": "ph ph-currency-jpy"
+  },
+  {
+    "name": "currency-krw",
+    "class": "ph ph-currency-krw"
+  },
+  {
+    "name": "currency-kzt",
+    "class": "ph ph-currency-kzt"
+  },
+  {
+    "name": "currency-ngn",
+    "class": "ph ph-currency-ngn"
+  },
+  {
+    "name": "currency-rub",
+    "class": "ph ph-currency-rub"
+  },
+  {
+    "name": "cursor",
+    "class": "ph ph-cursor"
+  },
+  {
+    "name": "cursor-click",
+    "class": "ph ph-cursor-click"
+  },
+  {
+    "name": "cursor-text",
+    "class": "ph ph-cursor-text"
+  },
+  {
+    "name": "cylinder",
+    "class": "ph ph-cylinder"
+  },
+  {
+    "name": "database",
+    "class": "ph ph-database"
+  },
+  {
+    "name": "desk",
+    "class": "ph ph-desk"
+  },
+  {
+    "name": "desktop",
+    "class": "ph ph-desktop"
+  },
+  {
+    "name": "desktop-tower",
+    "class": "ph ph-desktop-tower"
+  },
+  {
+    "name": "detective",
+    "class": "ph ph-detective"
+  },
+  {
+    "name": "dev-to-logo",
+    "class": "ph ph-dev-to-logo"
+  },
+  {
+    "name": "device-mobile",
+    "class": "ph ph-device-mobile"
+  },
+  {
+    "name": "device-mobile-camera",
+    "class": "ph ph-device-mobile-camera"
+  },
+  {
+    "name": "device-mobile-slash",
+    "class": "ph ph-device-mobile-slash"
+  },
+  {
+    "name": "device-mobile-speaker",
+    "class": "ph ph-device-mobile-speaker"
+  },
+  {
+    "name": "device-rotate",
+    "class": "ph ph-device-rotate"
+  },
+  {
+    "name": "device-tablet",
+    "class": "ph ph-device-tablet"
+  },
+  {
+    "name": "device-tablet-camera",
+    "class": "ph ph-device-tablet-camera"
+  },
+  {
+    "name": "device-tablet-speaker",
+    "class": "ph ph-device-tablet-speaker"
+  },
+  {
+    "name": "devices",
+    "class": "ph ph-devices"
+  },
+  {
+    "name": "diamond",
+    "class": "ph ph-diamond"
+  },
+  {
+    "name": "diamonds-four",
+    "class": "ph ph-diamonds-four"
+  },
+  {
+    "name": "dice-five",
+    "class": "ph ph-dice-five"
+  },
+  {
+    "name": "dice-four",
+    "class": "ph ph-dice-four"
+  },
+  {
+    "name": "dice-one",
+    "class": "ph ph-dice-one"
+  },
+  {
+    "name": "dice-six",
+    "class": "ph ph-dice-six"
+  },
+  {
+    "name": "dice-three",
+    "class": "ph ph-dice-three"
+  },
+  {
+    "name": "dice-two",
+    "class": "ph ph-dice-two"
+  },
+  {
+    "name": "disc",
+    "class": "ph ph-disc"
+  },
+  {
+    "name": "disco-ball",
+    "class": "ph ph-disco-ball"
+  },
+  {
+    "name": "discord-logo",
+    "class": "ph ph-discord-logo"
+  },
+  {
+    "name": "divide",
+    "class": "ph ph-divide"
+  },
+  {
+    "name": "dna",
+    "class": "ph ph-dna"
+  },
+  {
+    "name": "dog",
+    "class": "ph ph-dog"
+  },
+  {
+    "name": "door",
+    "class": "ph ph-door"
+  },
+  {
+    "name": "door-open",
+    "class": "ph ph-door-open"
+  },
+  {
+    "name": "dot",
+    "class": "ph ph-dot"
+  },
+  {
+    "name": "dot-outline",
+    "class": "ph ph-dot-outline"
+  },
+  {
+    "name": "dots-nine",
+    "class": "ph ph-dots-nine"
+  },
+  {
+    "name": "dots-six",
+    "class": "ph ph-dots-six"
+  },
+  {
+    "name": "dots-six-vertical",
+    "class": "ph ph-dots-six-vertical"
+  },
+  {
+    "name": "dots-three",
+    "class": "ph ph-dots-three"
+  },
+  {
+    "name": "dots-three-circle",
+    "class": "ph ph-dots-three-circle"
+  },
+  {
+    "name": "dots-three-circle-vertical",
+    "class": "ph ph-dots-three-circle-vertical"
+  },
+  {
+    "name": "dots-three-outline",
+    "class": "ph ph-dots-three-outline"
+  },
+  {
+    "name": "dots-three-outline-vertical",
+    "class": "ph ph-dots-three-outline-vertical"
+  },
+  {
+    "name": "dots-three-vertical",
+    "class": "ph ph-dots-three-vertical"
+  },
+  {
+    "name": "download",
+    "class": "ph ph-download"
+  },
+  {
+    "name": "download-simple",
+    "class": "ph ph-download-simple"
+  },
+  {
+    "name": "dress",
+    "class": "ph ph-dress"
+  },
+  {
+    "name": "dresser",
+    "class": "ph ph-dresser"
+  },
+  {
+    "name": "dribbble-logo",
+    "class": "ph ph-dribbble-logo"
+  },
+  {
+    "name": "drone",
+    "class": "ph ph-drone"
+  },
+  {
+    "name": "drop",
+    "class": "ph ph-drop"
+  },
+  {
+    "name": "drop-half",
+    "class": "ph ph-drop-half"
+  },
+  {
+    "name": "drop-half-bottom",
+    "class": "ph ph-drop-half-bottom"
+  },
+  {
+    "name": "drop-simple",
+    "class": "ph ph-drop-simple"
+  },
+  {
+    "name": "drop-slash",
+    "class": "ph ph-drop-slash"
+  },
+  {
+    "name": "dropbox-logo",
+    "class": "ph ph-dropbox-logo"
+  },
+  {
+    "name": "ear",
+    "class": "ph ph-ear"
+  },
+  {
+    "name": "ear-slash",
+    "class": "ph ph-ear-slash"
+  },
+  {
+    "name": "egg",
+    "class": "ph ph-egg"
+  },
+  {
+    "name": "egg-crack",
+    "class": "ph ph-egg-crack"
+  },
+  {
+    "name": "eject",
+    "class": "ph ph-eject"
+  },
+  {
+    "name": "eject-simple",
+    "class": "ph ph-eject-simple"
+  },
+  {
+    "name": "elevator",
+    "class": "ph ph-elevator"
+  },
+  {
+    "name": "empty",
+    "class": "ph ph-empty"
+  },
+  {
+    "name": "engine",
+    "class": "ph ph-engine"
+  },
+  {
+    "name": "envelope",
+    "class": "ph ph-envelope"
+  },
+  {
+    "name": "envelope-open",
+    "class": "ph ph-envelope-open"
+  },
+  {
+    "name": "envelope-simple",
+    "class": "ph ph-envelope-simple"
+  },
+  {
+    "name": "envelope-simple-open",
+    "class": "ph ph-envelope-simple-open"
+  },
+  {
+    "name": "equalizer",
+    "class": "ph ph-equalizer"
+  },
+  {
+    "name": "equals",
+    "class": "ph ph-equals"
+  },
+  {
+    "name": "eraser",
+    "class": "ph ph-eraser"
+  },
+  {
+    "name": "escalator-down",
+    "class": "ph ph-escalator-down"
+  },
+  {
+    "name": "escalator-up",
+    "class": "ph ph-escalator-up"
+  },
+  {
+    "name": "exam",
+    "class": "ph ph-exam"
+  },
+  {
+    "name": "exclamation-mark",
+    "class": "ph ph-exclamation-mark"
+  },
+  {
+    "name": "exclude",
+    "class": "ph ph-exclude"
+  },
+  {
+    "name": "exclude-square",
+    "class": "ph ph-exclude-square"
+  },
+  {
+    "name": "export",
+    "class": "ph ph-export"
+  },
+  {
+    "name": "eye",
+    "class": "ph ph-eye"
+  },
+  {
+    "name": "eye-closed",
+    "class": "ph ph-eye-closed"
+  },
+  {
+    "name": "eye-slash",
+    "class": "ph ph-eye-slash"
+  },
+  {
+    "name": "eyedropper",
+    "class": "ph ph-eyedropper"
+  },
+  {
+    "name": "eyedropper-sample",
+    "class": "ph ph-eyedropper-sample"
+  },
+  {
+    "name": "eyeglasses",
+    "class": "ph ph-eyeglasses"
+  },
+  {
+    "name": "eyes",
+    "class": "ph ph-eyes"
+  },
+  {
+    "name": "face-mask",
+    "class": "ph ph-face-mask"
+  },
+  {
+    "name": "facebook-logo",
+    "class": "ph ph-facebook-logo"
+  },
+  {
+    "name": "factory",
+    "class": "ph ph-factory"
+  },
+  {
+    "name": "faders",
+    "class": "ph ph-faders"
+  },
+  {
+    "name": "faders-horizontal",
+    "class": "ph ph-faders-horizontal"
+  },
+  {
+    "name": "fallout-shelter",
+    "class": "ph ph-fallout-shelter"
+  },
+  {
+    "name": "fan",
+    "class": "ph ph-fan"
+  },
+  {
+    "name": "farm",
+    "class": "ph ph-farm"
+  },
+  {
+    "name": "fast-forward",
+    "class": "ph ph-fast-forward"
+  },
+  {
+    "name": "fast-forward-circle",
+    "class": "ph ph-fast-forward-circle"
+  },
+  {
+    "name": "feather",
+    "class": "ph ph-feather"
+  },
+  {
+    "name": "fediverse-logo",
+    "class": "ph ph-fediverse-logo"
+  },
+  {
+    "name": "figma-logo",
+    "class": "ph ph-figma-logo"
+  },
+  {
+    "name": "file",
+    "class": "ph ph-file"
+  },
+  {
+    "name": "file-archive",
+    "class": "ph ph-file-archive"
+  },
+  {
+    "name": "file-arrow-down",
+    "class": "ph ph-file-arrow-down"
+  },
+  {
+    "name": "file-arrow-up",
+    "class": "ph ph-file-arrow-up"
+  },
+  {
+    "name": "file-audio",
+    "class": "ph ph-file-audio"
+  },
+  {
+    "name": "file-c",
+    "class": "ph ph-file-c"
+  },
+  {
+    "name": "file-c-sharp",
+    "class": "ph ph-file-c-sharp"
+  },
+  {
+    "name": "file-cloud",
+    "class": "ph ph-file-cloud"
+  },
+  {
+    "name": "file-code",
+    "class": "ph ph-file-code"
+  },
+  {
+    "name": "file-cpp",
+    "class": "ph ph-file-cpp"
+  },
+  {
+    "name": "file-css",
+    "class": "ph ph-file-css"
+  },
+  {
+    "name": "file-csv",
+    "class": "ph ph-file-csv"
+  },
+  {
+    "name": "file-dashed",
+    "class": "ph ph-file-dashed"
+  },
+  {
+    "name": "file-dotted",
+    "class": "ph ph-file-dotted"
+  },
+  {
+    "name": "file-doc",
+    "class": "ph ph-file-doc"
+  },
+  {
+    "name": "file-html",
+    "class": "ph ph-file-html"
+  },
+  {
+    "name": "file-image",
+    "class": "ph ph-file-image"
+  },
+  {
+    "name": "file-ini",
+    "class": "ph ph-file-ini"
+  },
+  {
+    "name": "file-jpg",
+    "class": "ph ph-file-jpg"
+  },
+  {
+    "name": "file-js",
+    "class": "ph ph-file-js"
+  },
+  {
+    "name": "file-jsx",
+    "class": "ph ph-file-jsx"
+  },
+  {
+    "name": "file-lock",
+    "class": "ph ph-file-lock"
+  },
+  {
+    "name": "file-magnifying-glass",
+    "class": "ph ph-file-magnifying-glass"
+  },
+  {
+    "name": "file-search",
+    "class": "ph ph-file-search"
+  },
+  {
+    "name": "file-md",
+    "class": "ph ph-file-md"
+  },
+  {
+    "name": "file-minus",
+    "class": "ph ph-file-minus"
+  },
+  {
+    "name": "file-pdf",
+    "class": "ph ph-file-pdf"
+  },
+  {
+    "name": "file-plus",
+    "class": "ph ph-file-plus"
+  },
+  {
+    "name": "file-png",
+    "class": "ph ph-file-png"
+  },
+  {
+    "name": "file-ppt",
+    "class": "ph ph-file-ppt"
+  },
+  {
+    "name": "file-py",
+    "class": "ph ph-file-py"
+  },
+  {
+    "name": "file-rs",
+    "class": "ph ph-file-rs"
+  },
+  {
+    "name": "file-sql",
+    "class": "ph ph-file-sql"
+  },
+  {
+    "name": "file-svg",
+    "class": "ph ph-file-svg"
+  },
+  {
+    "name": "file-text",
+    "class": "ph ph-file-text"
+  },
+  {
+    "name": "file-ts",
+    "class": "ph ph-file-ts"
+  },
+  {
+    "name": "file-tsx",
+    "class": "ph ph-file-tsx"
+  },
+  {
+    "name": "file-txt",
+    "class": "ph ph-file-txt"
+  },
+  {
+    "name": "file-video",
+    "class": "ph ph-file-video"
+  },
+  {
+    "name": "file-vue",
+    "class": "ph ph-file-vue"
+  },
+  {
+    "name": "file-x",
+    "class": "ph ph-file-x"
+  },
+  {
+    "name": "file-xls",
+    "class": "ph ph-file-xls"
+  },
+  {
+    "name": "file-zip",
+    "class": "ph ph-file-zip"
+  },
+  {
+    "name": "files",
+    "class": "ph ph-files"
+  },
+  {
+    "name": "film-reel",
+    "class": "ph ph-film-reel"
+  },
+  {
+    "name": "film-script",
+    "class": "ph ph-film-script"
+  },
+  {
+    "name": "film-slate",
+    "class": "ph ph-film-slate"
+  },
+  {
+    "name": "film-strip",
+    "class": "ph ph-film-strip"
+  },
+  {
+    "name": "fingerprint",
+    "class": "ph ph-fingerprint"
+  },
+  {
+    "name": "fingerprint-simple",
+    "class": "ph ph-fingerprint-simple"
+  },
+  {
+    "name": "finn-the-human",
+    "class": "ph ph-finn-the-human"
+  },
+  {
+    "name": "fire",
+    "class": "ph ph-fire"
+  },
+  {
+    "name": "fire-extinguisher",
+    "class": "ph ph-fire-extinguisher"
+  },
+  {
+    "name": "fire-simple",
+    "class": "ph ph-fire-simple"
+  },
+  {
+    "name": "fire-truck",
+    "class": "ph ph-fire-truck"
+  },
+  {
+    "name": "first-aid",
+    "class": "ph ph-first-aid"
+  },
+  {
+    "name": "first-aid-kit",
+    "class": "ph ph-first-aid-kit"
+  },
+  {
+    "name": "fish",
+    "class": "ph ph-fish"
+  },
+  {
+    "name": "fish-simple",
+    "class": "ph ph-fish-simple"
+  },
+  {
+    "name": "flag",
+    "class": "ph ph-flag"
+  },
+  {
+    "name": "flag-banner",
+    "class": "ph ph-flag-banner"
+  },
+  {
+    "name": "flag-banner-fold",
+    "class": "ph ph-flag-banner-fold"
+  },
+  {
+    "name": "flag-checkered",
+    "class": "ph ph-flag-checkered"
+  },
+  {
+    "name": "flag-pennant",
+    "class": "ph ph-flag-pennant"
+  },
+  {
+    "name": "flame",
+    "class": "ph ph-flame"
+  },
+  {
+    "name": "flashlight",
+    "class": "ph ph-flashlight"
+  },
+  {
+    "name": "flask",
+    "class": "ph ph-flask"
+  },
+  {
+    "name": "flip-horizontal",
+    "class": "ph ph-flip-horizontal"
+  },
+  {
+    "name": "flip-vertical",
+    "class": "ph ph-flip-vertical"
+  },
+  {
+    "name": "floppy-disk",
+    "class": "ph ph-floppy-disk"
+  },
+  {
+    "name": "floppy-disk-back",
+    "class": "ph ph-floppy-disk-back"
+  },
+  {
+    "name": "flow-arrow",
+    "class": "ph ph-flow-arrow"
+  },
+  {
+    "name": "flower",
+    "class": "ph ph-flower"
+  },
+  {
+    "name": "flower-lotus",
+    "class": "ph ph-flower-lotus"
+  },
+  {
+    "name": "flower-tulip",
+    "class": "ph ph-flower-tulip"
+  },
+  {
+    "name": "flying-saucer",
+    "class": "ph ph-flying-saucer"
+  },
+  {
+    "name": "folder",
+    "class": "ph ph-folder"
+  },
+  {
+    "name": "folder-notch",
+    "class": "ph ph-folder-notch"
+  },
+  {
+    "name": "folder-dashed",
+    "class": "ph ph-folder-dashed"
+  },
+  {
+    "name": "folder-dotted",
+    "class": "ph ph-folder-dotted"
+  },
+  {
+    "name": "folder-lock",
+    "class": "ph ph-folder-lock"
+  },
+  {
+    "name": "folder-minus",
+    "class": "ph ph-folder-minus"
+  },
+  {
+    "name": "folder-notch-minus",
+    "class": "ph ph-folder-notch-minus"
+  },
+  {
+    "name": "folder-open",
+    "class": "ph ph-folder-open"
+  },
+  {
+    "name": "folder-notch-open",
+    "class": "ph ph-folder-notch-open"
+  },
+  {
+    "name": "folder-plus",
+    "class": "ph ph-folder-plus"
+  },
+  {
+    "name": "folder-notch-plus",
+    "class": "ph ph-folder-notch-plus"
+  },
+  {
+    "name": "folder-simple",
+    "class": "ph ph-folder-simple"
+  },
+  {
+    "name": "folder-simple-dashed",
+    "class": "ph ph-folder-simple-dashed"
+  },
+  {
+    "name": "folder-simple-dotted",
+    "class": "ph ph-folder-simple-dotted"
+  },
+  {
+    "name": "folder-simple-lock",
+    "class": "ph ph-folder-simple-lock"
+  },
+  {
+    "name": "folder-simple-minus",
+    "class": "ph ph-folder-simple-minus"
+  },
+  {
+    "name": "folder-simple-plus",
+    "class": "ph ph-folder-simple-plus"
+  },
+  {
+    "name": "folder-simple-star",
+    "class": "ph ph-folder-simple-star"
+  },
+  {
+    "name": "folder-simple-user",
+    "class": "ph ph-folder-simple-user"
+  },
+  {
+    "name": "folder-star",
+    "class": "ph ph-folder-star"
+  },
+  {
+    "name": "folder-user",
+    "class": "ph ph-folder-user"
+  },
+  {
+    "name": "folders",
+    "class": "ph ph-folders"
+  },
+  {
+    "name": "football",
+    "class": "ph ph-football"
+  },
+  {
+    "name": "football-helmet",
+    "class": "ph ph-football-helmet"
+  },
+  {
+    "name": "footprints",
+    "class": "ph ph-footprints"
+  },
+  {
+    "name": "fork-knife",
+    "class": "ph ph-fork-knife"
+  },
+  {
+    "name": "four-k",
+    "class": "ph ph-four-k"
+  },
+  {
+    "name": "frame-corners",
+    "class": "ph ph-frame-corners"
+  },
+  {
+    "name": "framer-logo",
+    "class": "ph ph-framer-logo"
+  },
+  {
+    "name": "function",
+    "class": "ph ph-function"
+  },
+  {
+    "name": "funnel",
+    "class": "ph ph-funnel"
+  },
+  {
+    "name": "funnel-simple",
+    "class": "ph ph-funnel-simple"
+  },
+  {
+    "name": "funnel-simple-x",
+    "class": "ph ph-funnel-simple-x"
+  },
+  {
+    "name": "funnel-x",
+    "class": "ph ph-funnel-x"
+  },
+  {
+    "name": "game-controller",
+    "class": "ph ph-game-controller"
+  },
+  {
+    "name": "garage",
+    "class": "ph ph-garage"
+  },
+  {
+    "name": "gas-can",
+    "class": "ph ph-gas-can"
+  },
+  {
+    "name": "gas-pump",
+    "class": "ph ph-gas-pump"
+  },
+  {
+    "name": "gauge",
+    "class": "ph ph-gauge"
+  },
+  {
+    "name": "gavel",
+    "class": "ph ph-gavel"
+  },
+  {
+    "name": "gear",
+    "class": "ph ph-gear"
+  },
+  {
+    "name": "gear-fine",
+    "class": "ph ph-gear-fine"
+  },
+  {
+    "name": "gear-six",
+    "class": "ph ph-gear-six"
+  },
+  {
+    "name": "gender-female",
+    "class": "ph ph-gender-female"
+  },
+  {
+    "name": "gender-intersex",
+    "class": "ph ph-gender-intersex"
+  },
+  {
+    "name": "gender-male",
+    "class": "ph ph-gender-male"
+  },
+  {
+    "name": "gender-neuter",
+    "class": "ph ph-gender-neuter"
+  },
+  {
+    "name": "gender-nonbinary",
+    "class": "ph ph-gender-nonbinary"
+  },
+  {
+    "name": "gender-transgender",
+    "class": "ph ph-gender-transgender"
+  },
+  {
+    "name": "ghost",
+    "class": "ph ph-ghost"
+  },
+  {
+    "name": "gif",
+    "class": "ph ph-gif"
+  },
+  {
+    "name": "gift",
+    "class": "ph ph-gift"
+  },
+  {
+    "name": "git-branch",
+    "class": "ph ph-git-branch"
+  },
+  {
+    "name": "git-commit",
+    "class": "ph ph-git-commit"
+  },
+  {
+    "name": "git-diff",
+    "class": "ph ph-git-diff"
+  },
+  {
+    "name": "git-fork",
+    "class": "ph ph-git-fork"
+  },
+  {
+    "name": "git-merge",
+    "class": "ph ph-git-merge"
+  },
+  {
+    "name": "git-pull-request",
+    "class": "ph ph-git-pull-request"
+  },
+  {
+    "name": "github-logo",
+    "class": "ph ph-github-logo"
+  },
+  {
+    "name": "gitlab-logo",
+    "class": "ph ph-gitlab-logo"
+  },
+  {
+    "name": "gitlab-logo-simple",
+    "class": "ph ph-gitlab-logo-simple"
+  },
+  {
+    "name": "globe",
+    "class": "ph ph-globe"
+  },
+  {
+    "name": "globe-hemisphere-east",
+    "class": "ph ph-globe-hemisphere-east"
+  },
+  {
+    "name": "globe-hemisphere-west",
+    "class": "ph ph-globe-hemisphere-west"
+  },
+  {
+    "name": "globe-simple",
+    "class": "ph ph-globe-simple"
+  },
+  {
+    "name": "globe-simple-x",
+    "class": "ph ph-globe-simple-x"
+  },
+  {
+    "name": "globe-stand",
+    "class": "ph ph-globe-stand"
+  },
+  {
+    "name": "globe-x",
+    "class": "ph ph-globe-x"
+  },
+  {
+    "name": "goggles",
+    "class": "ph ph-goggles"
+  },
+  {
+    "name": "golf",
+    "class": "ph ph-golf"
+  },
+  {
+    "name": "goodreads-logo",
+    "class": "ph ph-goodreads-logo"
+  },
+  {
+    "name": "google-cardboard-logo",
+    "class": "ph ph-google-cardboard-logo"
+  },
+  {
+    "name": "google-chrome-logo",
+    "class": "ph ph-google-chrome-logo"
+  },
+  {
+    "name": "google-drive-logo",
+    "class": "ph ph-google-drive-logo"
+  },
+  {
+    "name": "google-logo",
+    "class": "ph ph-google-logo"
+  },
+  {
+    "name": "google-photos-logo",
+    "class": "ph ph-google-photos-logo"
+  },
+  {
+    "name": "google-play-logo",
+    "class": "ph ph-google-play-logo"
+  },
+  {
+    "name": "google-podcasts-logo",
+    "class": "ph ph-google-podcasts-logo"
+  },
+  {
+    "name": "gps",
+    "class": "ph ph-gps"
+  },
+  {
+    "name": "gps-fix",
+    "class": "ph ph-gps-fix"
+  },
+  {
+    "name": "gps-slash",
+    "class": "ph ph-gps-slash"
+  },
+  {
+    "name": "gradient",
+    "class": "ph ph-gradient"
+  },
+  {
+    "name": "graduation-cap",
+    "class": "ph ph-graduation-cap"
+  },
+  {
+    "name": "grains",
+    "class": "ph ph-grains"
+  },
+  {
+    "name": "grains-slash",
+    "class": "ph ph-grains-slash"
+  },
+  {
+    "name": "graph",
+    "class": "ph ph-graph"
+  },
+  {
+    "name": "graphics-card",
+    "class": "ph ph-graphics-card"
+  },
+  {
+    "name": "greater-than",
+    "class": "ph ph-greater-than"
+  },
+  {
+    "name": "greater-than-or-equal",
+    "class": "ph ph-greater-than-or-equal"
+  },
+  {
+    "name": "grid-four",
+    "class": "ph ph-grid-four"
+  },
+  {
+    "name": "grid-nine",
+    "class": "ph ph-grid-nine"
+  },
+  {
+    "name": "guitar",
+    "class": "ph ph-guitar"
+  },
+  {
+    "name": "hair-dryer",
+    "class": "ph ph-hair-dryer"
+  },
+  {
+    "name": "hamburger",
+    "class": "ph ph-hamburger"
+  },
+  {
+    "name": "hammer",
+    "class": "ph ph-hammer"
+  },
+  {
+    "name": "hand",
+    "class": "ph ph-hand"
+  },
+  {
+    "name": "hand-arrow-down",
+    "class": "ph ph-hand-arrow-down"
+  },
+  {
+    "name": "hand-arrow-up",
+    "class": "ph ph-hand-arrow-up"
+  },
+  {
+    "name": "hand-coins",
+    "class": "ph ph-hand-coins"
+  },
+  {
+    "name": "hand-deposit",
+    "class": "ph ph-hand-deposit"
+  },
+  {
+    "name": "hand-eye",
+    "class": "ph ph-hand-eye"
+  },
+  {
+    "name": "hand-fist",
+    "class": "ph ph-hand-fist"
+  },
+  {
+    "name": "hand-grabbing",
+    "class": "ph ph-hand-grabbing"
+  },
+  {
+    "name": "hand-heart",
+    "class": "ph ph-hand-heart"
+  },
+  {
+    "name": "hand-palm",
+    "class": "ph ph-hand-palm"
+  },
+  {
+    "name": "hand-peace",
+    "class": "ph ph-hand-peace"
+  },
+  {
+    "name": "hand-pointing",
+    "class": "ph ph-hand-pointing"
+  },
+  {
+    "name": "hand-soap",
+    "class": "ph ph-hand-soap"
+  },
+  {
+    "name": "hand-swipe-left",
+    "class": "ph ph-hand-swipe-left"
+  },
+  {
+    "name": "hand-swipe-right",
+    "class": "ph ph-hand-swipe-right"
+  },
+  {
+    "name": "hand-tap",
+    "class": "ph ph-hand-tap"
+  },
+  {
+    "name": "hand-waving",
+    "class": "ph ph-hand-waving"
+  },
+  {
+    "name": "hand-withdraw",
+    "class": "ph ph-hand-withdraw"
+  },
+  {
+    "name": "handbag",
+    "class": "ph ph-handbag"
+  },
+  {
+    "name": "handbag-simple",
+    "class": "ph ph-handbag-simple"
+  },
+  {
+    "name": "hands-clapping",
+    "class": "ph ph-hands-clapping"
+  },
+  {
+    "name": "hands-praying",
+    "class": "ph ph-hands-praying"
+  },
+  {
+    "name": "handshake",
+    "class": "ph ph-handshake"
+  },
+  {
+    "name": "hard-drive",
+    "class": "ph ph-hard-drive"
+  },
+  {
+    "name": "hard-drives",
+    "class": "ph ph-hard-drives"
+  },
+  {
+    "name": "hard-hat",
+    "class": "ph ph-hard-hat"
+  },
+  {
+    "name": "hash",
+    "class": "ph ph-hash"
+  },
+  {
+    "name": "hash-straight",
+    "class": "ph ph-hash-straight"
+  },
+  {
+    "name": "head-circuit",
+    "class": "ph ph-head-circuit"
+  },
+  {
+    "name": "headlights",
+    "class": "ph ph-headlights"
+  },
+  {
+    "name": "headphones",
+    "class": "ph ph-headphones"
+  },
+  {
+    "name": "headset",
+    "class": "ph ph-headset"
+  },
+  {
+    "name": "heart",
+    "class": "ph ph-heart"
+  },
+  {
+    "name": "heart-break",
+    "class": "ph ph-heart-break"
+  },
+  {
+    "name": "heart-half",
+    "class": "ph ph-heart-half"
+  },
+  {
+    "name": "heart-straight",
+    "class": "ph ph-heart-straight"
+  },
+  {
+    "name": "heart-straight-break",
+    "class": "ph ph-heart-straight-break"
+  },
+  {
+    "name": "heartbeat",
+    "class": "ph ph-heartbeat"
+  },
+  {
+    "name": "hexagon",
+    "class": "ph ph-hexagon"
+  },
+  {
+    "name": "high-definition",
+    "class": "ph ph-high-definition"
+  },
+  {
+    "name": "high-heel",
+    "class": "ph ph-high-heel"
+  },
+  {
+    "name": "highlighter",
+    "class": "ph ph-highlighter"
+  },
+  {
+    "name": "highlighter-circle",
+    "class": "ph ph-highlighter-circle"
+  },
+  {
+    "name": "hockey",
+    "class": "ph ph-hockey"
+  },
+  {
+    "name": "hoodie",
+    "class": "ph ph-hoodie"
+  },
+  {
+    "name": "horse",
+    "class": "ph ph-horse"
+  },
+  {
+    "name": "hospital",
+    "class": "ph ph-hospital"
+  },
+  {
+    "name": "hourglass",
+    "class": "ph ph-hourglass"
+  },
+  {
+    "name": "hourglass-high",
+    "class": "ph ph-hourglass-high"
+  },
+  {
+    "name": "hourglass-low",
+    "class": "ph ph-hourglass-low"
+  },
+  {
+    "name": "hourglass-medium",
+    "class": "ph ph-hourglass-medium"
+  },
+  {
+    "name": "hourglass-simple",
+    "class": "ph ph-hourglass-simple"
+  },
+  {
+    "name": "hourglass-simple-high",
+    "class": "ph ph-hourglass-simple-high"
+  },
+  {
+    "name": "hourglass-simple-low",
+    "class": "ph ph-hourglass-simple-low"
+  },
+  {
+    "name": "hourglass-simple-medium",
+    "class": "ph ph-hourglass-simple-medium"
+  },
+  {
+    "name": "house",
+    "class": "ph ph-house"
+  },
+  {
+    "name": "house-line",
+    "class": "ph ph-house-line"
+  },
+  {
+    "name": "house-simple",
+    "class": "ph ph-house-simple"
+  },
+  {
+    "name": "hurricane",
+    "class": "ph ph-hurricane"
+  },
+  {
+    "name": "ice-cream",
+    "class": "ph ph-ice-cream"
+  },
+  {
+    "name": "identification-badge",
+    "class": "ph ph-identification-badge"
+  },
+  {
+    "name": "identification-card",
+    "class": "ph ph-identification-card"
+  },
+  {
+    "name": "image",
+    "class": "ph ph-image"
+  },
+  {
+    "name": "image-broken",
+    "class": "ph ph-image-broken"
+  },
+  {
+    "name": "image-square",
+    "class": "ph ph-image-square"
+  },
+  {
+    "name": "images",
+    "class": "ph ph-images"
+  },
+  {
+    "name": "images-square",
+    "class": "ph ph-images-square"
+  },
+  {
+    "name": "infinity",
+    "class": "ph ph-infinity"
+  },
+  {
+    "name": "lemniscate",
+    "class": "ph ph-lemniscate"
+  },
+  {
+    "name": "info",
+    "class": "ph ph-info"
+  },
+  {
+    "name": "instagram-logo",
+    "class": "ph ph-instagram-logo"
+  },
+  {
+    "name": "intersect",
+    "class": "ph ph-intersect"
+  },
+  {
+    "name": "intersect-square",
+    "class": "ph ph-intersect-square"
+  },
+  {
+    "name": "intersect-three",
+    "class": "ph ph-intersect-three"
+  },
+  {
+    "name": "intersection",
+    "class": "ph ph-intersection"
+  },
+  {
+    "name": "invoice",
+    "class": "ph ph-invoice"
+  },
+  {
+    "name": "island",
+    "class": "ph ph-island"
+  },
+  {
+    "name": "jar",
+    "class": "ph ph-jar"
+  },
+  {
+    "name": "jar-label",
+    "class": "ph ph-jar-label"
+  },
+  {
+    "name": "jeep",
+    "class": "ph ph-jeep"
+  },
+  {
+    "name": "joystick",
+    "class": "ph ph-joystick"
+  },
+  {
+    "name": "kanban",
+    "class": "ph ph-kanban"
+  },
+  {
+    "name": "key",
+    "class": "ph ph-key"
+  },
+  {
+    "name": "key-return",
+    "class": "ph ph-key-return"
+  },
+  {
+    "name": "keyboard",
+    "class": "ph ph-keyboard"
+  },
+  {
+    "name": "keyhole",
+    "class": "ph ph-keyhole"
+  },
+  {
+    "name": "knife",
+    "class": "ph ph-knife"
+  },
+  {
+    "name": "ladder",
+    "class": "ph ph-ladder"
+  },
+  {
+    "name": "ladder-simple",
+    "class": "ph ph-ladder-simple"
+  },
+  {
+    "name": "lamp",
+    "class": "ph ph-lamp"
+  },
+  {
+    "name": "lamp-pendant",
+    "class": "ph ph-lamp-pendant"
+  },
+  {
+    "name": "laptop",
+    "class": "ph ph-laptop"
+  },
+  {
+    "name": "lasso",
+    "class": "ph ph-lasso"
+  },
+  {
+    "name": "lastfm-logo",
+    "class": "ph ph-lastfm-logo"
+  },
+  {
+    "name": "layout",
+    "class": "ph ph-layout"
+  },
+  {
+    "name": "leaf",
+    "class": "ph ph-leaf"
+  },
+  {
+    "name": "lectern",
+    "class": "ph ph-lectern"
+  },
+  {
+    "name": "lego",
+    "class": "ph ph-lego"
+  },
+  {
+    "name": "lego-smiley",
+    "class": "ph ph-lego-smiley"
+  },
+  {
+    "name": "less-than",
+    "class": "ph ph-less-than"
+  },
+  {
+    "name": "less-than-or-equal",
+    "class": "ph ph-less-than-or-equal"
+  },
+  {
+    "name": "letter-circle-h",
+    "class": "ph ph-letter-circle-h"
+  },
+  {
+    "name": "letter-circle-p",
+    "class": "ph ph-letter-circle-p"
+  },
+  {
+    "name": "letter-circle-v",
+    "class": "ph ph-letter-circle-v"
+  },
+  {
+    "name": "lifebuoy",
+    "class": "ph ph-lifebuoy"
+  },
+  {
+    "name": "lightbulb",
+    "class": "ph ph-lightbulb"
+  },
+  {
+    "name": "lightbulb-filament",
+    "class": "ph ph-lightbulb-filament"
+  },
+  {
+    "name": "lighthouse",
+    "class": "ph ph-lighthouse"
+  },
+  {
+    "name": "lightning",
+    "class": "ph ph-lightning"
+  },
+  {
+    "name": "lightning-a",
+    "class": "ph ph-lightning-a"
+  },
+  {
+    "name": "lightning-slash",
+    "class": "ph ph-lightning-slash"
+  },
+  {
+    "name": "line-segment",
+    "class": "ph ph-line-segment"
+  },
+  {
+    "name": "line-segments",
+    "class": "ph ph-line-segments"
+  },
+  {
+    "name": "line-vertical",
+    "class": "ph ph-line-vertical"
+  },
+  {
+    "name": "link",
+    "class": "ph ph-link"
+  },
+  {
+    "name": "link-break",
+    "class": "ph ph-link-break"
+  },
+  {
+    "name": "link-simple",
+    "class": "ph ph-link-simple"
+  },
+  {
+    "name": "link-simple-break",
+    "class": "ph ph-link-simple-break"
+  },
+  {
+    "name": "link-simple-horizontal",
+    "class": "ph ph-link-simple-horizontal"
+  },
+  {
+    "name": "link-simple-horizontal-break",
+    "class": "ph ph-link-simple-horizontal-break"
+  },
+  {
+    "name": "linkedin-logo",
+    "class": "ph ph-linkedin-logo"
+  },
+  {
+    "name": "linktree-logo",
+    "class": "ph ph-linktree-logo"
+  },
+  {
+    "name": "linux-logo",
+    "class": "ph ph-linux-logo"
+  },
+  {
+    "name": "list",
+    "class": "ph ph-list"
+  },
+  {
+    "name": "list-bullets",
+    "class": "ph ph-list-bullets"
+  },
+  {
+    "name": "list-checks",
+    "class": "ph ph-list-checks"
+  },
+  {
+    "name": "list-dashes",
+    "class": "ph ph-list-dashes"
+  },
+  {
+    "name": "list-heart",
+    "class": "ph ph-list-heart"
+  },
+  {
+    "name": "list-magnifying-glass",
+    "class": "ph ph-list-magnifying-glass"
+  },
+  {
+    "name": "list-numbers",
+    "class": "ph ph-list-numbers"
+  },
+  {
+    "name": "list-plus",
+    "class": "ph ph-list-plus"
+  },
+  {
+    "name": "list-star",
+    "class": "ph ph-list-star"
+  },
+  {
+    "name": "lock",
+    "class": "ph ph-lock"
+  },
+  {
+    "name": "lock-key",
+    "class": "ph ph-lock-key"
+  },
+  {
+    "name": "lock-key-open",
+    "class": "ph ph-lock-key-open"
+  },
+  {
+    "name": "lock-laminated",
+    "class": "ph ph-lock-laminated"
+  },
+  {
+    "name": "lock-laminated-open",
+    "class": "ph ph-lock-laminated-open"
+  },
+  {
+    "name": "lock-open",
+    "class": "ph ph-lock-open"
+  },
+  {
+    "name": "lock-simple",
+    "class": "ph ph-lock-simple"
+  },
+  {
+    "name": "lock-simple-open",
+    "class": "ph ph-lock-simple-open"
+  },
+  {
+    "name": "lockers",
+    "class": "ph ph-lockers"
+  },
+  {
+    "name": "log",
+    "class": "ph ph-log"
+  },
+  {
+    "name": "magic-wand",
+    "class": "ph ph-magic-wand"
+  },
+  {
+    "name": "magnet",
+    "class": "ph ph-magnet"
+  },
+  {
+    "name": "magnet-straight",
+    "class": "ph ph-magnet-straight"
+  },
+  {
+    "name": "magnifying-glass",
+    "class": "ph ph-magnifying-glass"
+  },
+  {
+    "name": "magnifying-glass-minus",
+    "class": "ph ph-magnifying-glass-minus"
+  },
+  {
+    "name": "magnifying-glass-plus",
+    "class": "ph ph-magnifying-glass-plus"
+  },
+  {
+    "name": "mailbox",
+    "class": "ph ph-mailbox"
+  },
+  {
+    "name": "map-pin",
+    "class": "ph ph-map-pin"
+  },
+  {
+    "name": "map-pin-area",
+    "class": "ph ph-map-pin-area"
+  },
+  {
+    "name": "map-pin-line",
+    "class": "ph ph-map-pin-line"
+  },
+  {
+    "name": "map-pin-plus",
+    "class": "ph ph-map-pin-plus"
+  },
+  {
+    "name": "map-pin-simple",
+    "class": "ph ph-map-pin-simple"
+  },
+  {
+    "name": "map-pin-simple-area",
+    "class": "ph ph-map-pin-simple-area"
+  },
+  {
+    "name": "map-pin-simple-line",
+    "class": "ph ph-map-pin-simple-line"
+  },
+  {
+    "name": "map-trifold",
+    "class": "ph ph-map-trifold"
+  },
+  {
+    "name": "markdown-logo",
+    "class": "ph ph-markdown-logo"
+  },
+  {
+    "name": "marker-circle",
+    "class": "ph ph-marker-circle"
+  },
+  {
+    "name": "martini",
+    "class": "ph ph-martini"
+  },
+  {
+    "name": "mask-happy",
+    "class": "ph ph-mask-happy"
+  },
+  {
+    "name": "mask-sad",
+    "class": "ph ph-mask-sad"
+  },
+  {
+    "name": "mastodon-logo",
+    "class": "ph ph-mastodon-logo"
+  },
+  {
+    "name": "math-operations",
+    "class": "ph ph-math-operations"
+  },
+  {
+    "name": "matrix-logo",
+    "class": "ph ph-matrix-logo"
+  },
+  {
+    "name": "medal",
+    "class": "ph ph-medal"
+  },
+  {
+    "name": "medal-military",
+    "class": "ph ph-medal-military"
+  },
+  {
+    "name": "medium-logo",
+    "class": "ph ph-medium-logo"
+  },
+  {
+    "name": "megaphone",
+    "class": "ph ph-megaphone"
+  },
+  {
+    "name": "megaphone-simple",
+    "class": "ph ph-megaphone-simple"
+  },
+  {
+    "name": "member-of",
+    "class": "ph ph-member-of"
+  },
+  {
+    "name": "memory",
+    "class": "ph ph-memory"
+  },
+  {
+    "name": "messenger-logo",
+    "class": "ph ph-messenger-logo"
+  },
+  {
+    "name": "meta-logo",
+    "class": "ph ph-meta-logo"
+  },
+  {
+    "name": "meteor",
+    "class": "ph ph-meteor"
+  },
+  {
+    "name": "metronome",
+    "class": "ph ph-metronome"
+  },
+  {
+    "name": "microphone",
+    "class": "ph ph-microphone"
+  },
+  {
+    "name": "microphone-slash",
+    "class": "ph ph-microphone-slash"
+  },
+  {
+    "name": "microphone-stage",
+    "class": "ph ph-microphone-stage"
+  },
+  {
+    "name": "microscope",
+    "class": "ph ph-microscope"
+  },
+  {
+    "name": "microsoft-excel-logo",
+    "class": "ph ph-microsoft-excel-logo"
+  },
+  {
+    "name": "microsoft-outlook-logo",
+    "class": "ph ph-microsoft-outlook-logo"
+  },
+  {
+    "name": "microsoft-powerpoint-logo",
+    "class": "ph ph-microsoft-powerpoint-logo"
+  },
+  {
+    "name": "microsoft-teams-logo",
+    "class": "ph ph-microsoft-teams-logo"
+  },
+  {
+    "name": "microsoft-word-logo",
+    "class": "ph ph-microsoft-word-logo"
+  },
+  {
+    "name": "minus",
+    "class": "ph ph-minus"
+  },
+  {
+    "name": "minus-circle",
+    "class": "ph ph-minus-circle"
+  },
+  {
+    "name": "minus-square",
+    "class": "ph ph-minus-square"
+  },
+  {
+    "name": "money",
+    "class": "ph ph-money"
+  },
+  {
+    "name": "money-wavy",
+    "class": "ph ph-money-wavy"
+  },
+  {
+    "name": "monitor",
+    "class": "ph ph-monitor"
+  },
+  {
+    "name": "monitor-arrow-up",
+    "class": "ph ph-monitor-arrow-up"
+  },
+  {
+    "name": "monitor-play",
+    "class": "ph ph-monitor-play"
+  },
+  {
+    "name": "moon",
+    "class": "ph ph-moon"
+  },
+  {
+    "name": "moon-stars",
+    "class": "ph ph-moon-stars"
+  },
+  {
+    "name": "moped",
+    "class": "ph ph-moped"
+  },
+  {
+    "name": "moped-front",
+    "class": "ph ph-moped-front"
+  },
+  {
+    "name": "mosque",
+    "class": "ph ph-mosque"
+  },
+  {
+    "name": "motorcycle",
+    "class": "ph ph-motorcycle"
+  },
+  {
+    "name": "mountains",
+    "class": "ph ph-mountains"
+  },
+  {
+    "name": "mouse",
+    "class": "ph ph-mouse"
+  },
+  {
+    "name": "mouse-left-click",
+    "class": "ph ph-mouse-left-click"
+  },
+  {
+    "name": "mouse-middle-click",
+    "class": "ph ph-mouse-middle-click"
+  },
+  {
+    "name": "mouse-right-click",
+    "class": "ph ph-mouse-right-click"
+  },
+  {
+    "name": "mouse-scroll",
+    "class": "ph ph-mouse-scroll"
+  },
+  {
+    "name": "mouse-simple",
+    "class": "ph ph-mouse-simple"
+  },
+  {
+    "name": "music-note",
+    "class": "ph ph-music-note"
+  },
+  {
+    "name": "music-note-simple",
+    "class": "ph ph-music-note-simple"
+  },
+  {
+    "name": "music-notes",
+    "class": "ph ph-music-notes"
+  },
+  {
+    "name": "music-notes-minus",
+    "class": "ph ph-music-notes-minus"
+  },
+  {
+    "name": "music-notes-plus",
+    "class": "ph ph-music-notes-plus"
+  },
+  {
+    "name": "music-notes-simple",
+    "class": "ph ph-music-notes-simple"
+  },
+  {
+    "name": "navigation-arrow",
+    "class": "ph ph-navigation-arrow"
+  },
+  {
+    "name": "needle",
+    "class": "ph ph-needle"
+  },
+  {
+    "name": "network",
+    "class": "ph ph-network"
+  },
+  {
+    "name": "network-slash",
+    "class": "ph ph-network-slash"
+  },
+  {
+    "name": "network-x",
+    "class": "ph ph-network-x"
+  },
+  {
+    "name": "newspaper",
+    "class": "ph ph-newspaper"
+  },
+  {
+    "name": "newspaper-clipping",
+    "class": "ph ph-newspaper-clipping"
+  },
+  {
+    "name": "not-equals",
+    "class": "ph ph-not-equals"
+  },
+  {
+    "name": "not-member-of",
+    "class": "ph ph-not-member-of"
+  },
+  {
+    "name": "not-subset-of",
+    "class": "ph ph-not-subset-of"
+  },
+  {
+    "name": "not-superset-of",
+    "class": "ph ph-not-superset-of"
+  },
+  {
+    "name": "notches",
+    "class": "ph ph-notches"
+  },
+  {
+    "name": "note",
+    "class": "ph ph-note"
+  },
+  {
+    "name": "note-blank",
+    "class": "ph ph-note-blank"
+  },
+  {
+    "name": "note-pencil",
+    "class": "ph ph-note-pencil"
+  },
+  {
+    "name": "notebook",
+    "class": "ph ph-notebook"
+  },
+  {
+    "name": "notepad",
+    "class": "ph ph-notepad"
+  },
+  {
+    "name": "notification",
+    "class": "ph ph-notification"
+  },
+  {
+    "name": "notion-logo",
+    "class": "ph ph-notion-logo"
+  },
+  {
+    "name": "nuclear-plant",
+    "class": "ph ph-nuclear-plant"
+  },
+  {
+    "name": "number-circle-eight",
+    "class": "ph ph-number-circle-eight"
+  },
+  {
+    "name": "number-circle-five",
+    "class": "ph ph-number-circle-five"
+  },
+  {
+    "name": "number-circle-four",
+    "class": "ph ph-number-circle-four"
+  },
+  {
+    "name": "number-circle-nine",
+    "class": "ph ph-number-circle-nine"
+  },
+  {
+    "name": "number-circle-one",
+    "class": "ph ph-number-circle-one"
+  },
+  {
+    "name": "number-circle-seven",
+    "class": "ph ph-number-circle-seven"
+  },
+  {
+    "name": "number-circle-six",
+    "class": "ph ph-number-circle-six"
+  },
+  {
+    "name": "number-circle-three",
+    "class": "ph ph-number-circle-three"
+  },
+  {
+    "name": "number-circle-two",
+    "class": "ph ph-number-circle-two"
+  },
+  {
+    "name": "number-circle-zero",
+    "class": "ph ph-number-circle-zero"
+  },
+  {
+    "name": "number-eight",
+    "class": "ph ph-number-eight"
+  },
+  {
+    "name": "number-five",
+    "class": "ph ph-number-five"
+  },
+  {
+    "name": "number-four",
+    "class": "ph ph-number-four"
+  },
+  {
+    "name": "number-nine",
+    "class": "ph ph-number-nine"
+  },
+  {
+    "name": "number-one",
+    "class": "ph ph-number-one"
+  },
+  {
+    "name": "number-seven",
+    "class": "ph ph-number-seven"
+  },
+  {
+    "name": "number-six",
+    "class": "ph ph-number-six"
+  },
+  {
+    "name": "number-square-eight",
+    "class": "ph ph-number-square-eight"
+  },
+  {
+    "name": "number-square-five",
+    "class": "ph ph-number-square-five"
+  },
+  {
+    "name": "number-square-four",
+    "class": "ph ph-number-square-four"
+  },
+  {
+    "name": "number-square-nine",
+    "class": "ph ph-number-square-nine"
+  },
+  {
+    "name": "number-square-one",
+    "class": "ph ph-number-square-one"
+  },
+  {
+    "name": "number-square-seven",
+    "class": "ph ph-number-square-seven"
+  },
+  {
+    "name": "number-square-six",
+    "class": "ph ph-number-square-six"
+  },
+  {
+    "name": "number-square-three",
+    "class": "ph ph-number-square-three"
+  },
+  {
+    "name": "number-square-two",
+    "class": "ph ph-number-square-two"
+  },
+  {
+    "name": "number-square-zero",
+    "class": "ph ph-number-square-zero"
+  },
+  {
+    "name": "number-three",
+    "class": "ph ph-number-three"
+  },
+  {
+    "name": "number-two",
+    "class": "ph ph-number-two"
+  },
+  {
+    "name": "number-zero",
+    "class": "ph ph-number-zero"
+  },
+  {
+    "name": "numpad",
+    "class": "ph ph-numpad"
+  },
+  {
+    "name": "nut",
+    "class": "ph ph-nut"
+  },
+  {
+    "name": "ny-times-logo",
+    "class": "ph ph-ny-times-logo"
+  },
+  {
+    "name": "octagon",
+    "class": "ph ph-octagon"
+  },
+  {
+    "name": "office-chair",
+    "class": "ph ph-office-chair"
+  },
+  {
+    "name": "onigiri",
+    "class": "ph ph-onigiri"
+  },
+  {
+    "name": "open-ai-logo",
+    "class": "ph ph-open-ai-logo"
+  },
+  {
+    "name": "option",
+    "class": "ph ph-option"
+  },
+  {
+    "name": "orange",
+    "class": "ph ph-orange"
+  },
+  {
+    "name": "orange-slice",
+    "class": "ph ph-orange-slice"
+  },
+  {
+    "name": "oven",
+    "class": "ph ph-oven"
+  },
+  {
+    "name": "package",
+    "class": "ph ph-package"
+  },
+  {
+    "name": "paint-brush",
+    "class": "ph ph-paint-brush"
+  },
+  {
+    "name": "paint-brush-broad",
+    "class": "ph ph-paint-brush-broad"
+  },
+  {
+    "name": "paint-brush-household",
+    "class": "ph ph-paint-brush-household"
+  },
+  {
+    "name": "paint-bucket",
+    "class": "ph ph-paint-bucket"
+  },
+  {
+    "name": "paint-roller",
+    "class": "ph ph-paint-roller"
+  },
+  {
+    "name": "palette",
+    "class": "ph ph-palette"
+  },
+  {
+    "name": "panorama",
+    "class": "ph ph-panorama"
+  },
+  {
+    "name": "pants",
+    "class": "ph ph-pants"
+  },
+  {
+    "name": "paper-plane",
+    "class": "ph ph-paper-plane"
+  },
+  {
+    "name": "paper-plane-right",
+    "class": "ph ph-paper-plane-right"
+  },
+  {
+    "name": "paper-plane-tilt",
+    "class": "ph ph-paper-plane-tilt"
+  },
+  {
+    "name": "paperclip",
+    "class": "ph ph-paperclip"
+  },
+  {
+    "name": "paperclip-horizontal",
+    "class": "ph ph-paperclip-horizontal"
+  },
+  {
+    "name": "parachute",
+    "class": "ph ph-parachute"
+  },
+  {
+    "name": "paragraph",
+    "class": "ph ph-paragraph"
+  },
+  {
+    "name": "parallelogram",
+    "class": "ph ph-parallelogram"
+  },
+  {
+    "name": "park",
+    "class": "ph ph-park"
+  },
+  {
+    "name": "password",
+    "class": "ph ph-password"
+  },
+  {
+    "name": "path",
+    "class": "ph ph-path"
+  },
+  {
+    "name": "patreon-logo",
+    "class": "ph ph-patreon-logo"
+  },
+  {
+    "name": "pause",
+    "class": "ph ph-pause"
+  },
+  {
+    "name": "pause-circle",
+    "class": "ph ph-pause-circle"
+  },
+  {
+    "name": "paw-print",
+    "class": "ph ph-paw-print"
+  },
+  {
+    "name": "paypal-logo",
+    "class": "ph ph-paypal-logo"
+  },
+  {
+    "name": "peace",
+    "class": "ph ph-peace"
+  },
+  {
+    "name": "pen",
+    "class": "ph ph-pen"
+  },
+  {
+    "name": "pen-nib",
+    "class": "ph ph-pen-nib"
+  },
+  {
+    "name": "pen-nib-straight",
+    "class": "ph ph-pen-nib-straight"
+  },
+  {
+    "name": "pencil",
+    "class": "ph ph-pencil"
+  },
+  {
+    "name": "pencil-circle",
+    "class": "ph ph-pencil-circle"
+  },
+  {
+    "name": "pencil-line",
+    "class": "ph ph-pencil-line"
+  },
+  {
+    "name": "pencil-ruler",
+    "class": "ph ph-pencil-ruler"
+  },
+  {
+    "name": "pencil-simple",
+    "class": "ph ph-pencil-simple"
+  },
+  {
+    "name": "pencil-simple-line",
+    "class": "ph ph-pencil-simple-line"
+  },
+  {
+    "name": "pencil-simple-slash",
+    "class": "ph ph-pencil-simple-slash"
+  },
+  {
+    "name": "pencil-slash",
+    "class": "ph ph-pencil-slash"
+  },
+  {
+    "name": "pentagon",
+    "class": "ph ph-pentagon"
+  },
+  {
+    "name": "pentagram",
+    "class": "ph ph-pentagram"
+  },
+  {
+    "name": "pepper",
+    "class": "ph ph-pepper"
+  },
+  {
+    "name": "percent",
+    "class": "ph ph-percent"
+  },
+  {
+    "name": "person",
+    "class": "ph ph-person"
+  },
+  {
+    "name": "person-arms-spread",
+    "class": "ph ph-person-arms-spread"
+  },
+  {
+    "name": "person-simple",
+    "class": "ph ph-person-simple"
+  },
+  {
+    "name": "person-simple-bike",
+    "class": "ph ph-person-simple-bike"
+  },
+  {
+    "name": "person-simple-circle",
+    "class": "ph ph-person-simple-circle"
+  },
+  {
+    "name": "person-simple-hike",
+    "class": "ph ph-person-simple-hike"
+  },
+  {
+    "name": "person-simple-run",
+    "class": "ph ph-person-simple-run"
+  },
+  {
+    "name": "person-simple-ski",
+    "class": "ph ph-person-simple-ski"
+  },
+  {
+    "name": "person-simple-snowboard",
+    "class": "ph ph-person-simple-snowboard"
+  },
+  {
+    "name": "person-simple-swim",
+    "class": "ph ph-person-simple-swim"
+  },
+  {
+    "name": "person-simple-tai-chi",
+    "class": "ph ph-person-simple-tai-chi"
+  },
+  {
+    "name": "person-simple-throw",
+    "class": "ph ph-person-simple-throw"
+  },
+  {
+    "name": "person-simple-walk",
+    "class": "ph ph-person-simple-walk"
+  },
+  {
+    "name": "perspective",
+    "class": "ph ph-perspective"
+  },
+  {
+    "name": "phone",
+    "class": "ph ph-phone"
+  },
+  {
+    "name": "phone-call",
+    "class": "ph ph-phone-call"
+  },
+  {
+    "name": "phone-disconnect",
+    "class": "ph ph-phone-disconnect"
+  },
+  {
+    "name": "phone-incoming",
+    "class": "ph ph-phone-incoming"
+  },
+  {
+    "name": "phone-list",
+    "class": "ph ph-phone-list"
+  },
+  {
+    "name": "phone-outgoing",
+    "class": "ph ph-phone-outgoing"
+  },
+  {
+    "name": "phone-pause",
+    "class": "ph ph-phone-pause"
+  },
+  {
+    "name": "phone-plus",
+    "class": "ph ph-phone-plus"
+  },
+  {
+    "name": "phone-slash",
+    "class": "ph ph-phone-slash"
+  },
+  {
+    "name": "phone-transfer",
+    "class": "ph ph-phone-transfer"
+  },
+  {
+    "name": "phone-x",
+    "class": "ph ph-phone-x"
+  },
+  {
+    "name": "phosphor-logo",
+    "class": "ph ph-phosphor-logo"
+  },
+  {
+    "name": "pi",
+    "class": "ph ph-pi"
+  },
+  {
+    "name": "piano-keys",
+    "class": "ph ph-piano-keys"
+  },
+  {
+    "name": "picnic-table",
+    "class": "ph ph-picnic-table"
+  },
+  {
+    "name": "picture-in-picture",
+    "class": "ph ph-picture-in-picture"
+  },
+  {
+    "name": "piggy-bank",
+    "class": "ph ph-piggy-bank"
+  },
+  {
+    "name": "pill",
+    "class": "ph ph-pill"
+  },
+  {
+    "name": "ping-pong",
+    "class": "ph ph-ping-pong"
+  },
+  {
+    "name": "pint-glass",
+    "class": "ph ph-pint-glass"
+  },
+  {
+    "name": "pinterest-logo",
+    "class": "ph ph-pinterest-logo"
+  },
+  {
+    "name": "pinwheel",
+    "class": "ph ph-pinwheel"
+  },
+  {
+    "name": "pipe",
+    "class": "ph ph-pipe"
+  },
+  {
+    "name": "pipe-wrench",
+    "class": "ph ph-pipe-wrench"
+  },
+  {
+    "name": "pix-logo",
+    "class": "ph ph-pix-logo"
+  },
+  {
+    "name": "pizza",
+    "class": "ph ph-pizza"
+  },
+  {
+    "name": "placeholder",
+    "class": "ph ph-placeholder"
+  },
+  {
+    "name": "planet",
+    "class": "ph ph-planet"
+  },
+  {
+    "name": "plant",
+    "class": "ph ph-plant"
+  },
+  {
+    "name": "play",
+    "class": "ph ph-play"
+  },
+  {
+    "name": "play-circle",
+    "class": "ph ph-play-circle"
+  },
+  {
+    "name": "play-pause",
+    "class": "ph ph-play-pause"
+  },
+  {
+    "name": "playlist",
+    "class": "ph ph-playlist"
+  },
+  {
+    "name": "plug",
+    "class": "ph ph-plug"
+  },
+  {
+    "name": "plug-charging",
+    "class": "ph ph-plug-charging"
+  },
+  {
+    "name": "plugs",
+    "class": "ph ph-plugs"
+  },
+  {
+    "name": "plugs-connected",
+    "class": "ph ph-plugs-connected"
+  },
+  {
+    "name": "plus",
+    "class": "ph ph-plus"
+  },
+  {
+    "name": "plus-circle",
+    "class": "ph ph-plus-circle"
+  },
+  {
+    "name": "plus-minus",
+    "class": "ph ph-plus-minus"
+  },
+  {
+    "name": "plus-square",
+    "class": "ph ph-plus-square"
+  },
+  {
+    "name": "poker-chip",
+    "class": "ph ph-poker-chip"
+  },
+  {
+    "name": "police-car",
+    "class": "ph ph-police-car"
+  },
+  {
+    "name": "polygon",
+    "class": "ph ph-polygon"
+  },
+  {
+    "name": "popcorn",
+    "class": "ph ph-popcorn"
+  },
+  {
+    "name": "popsicle",
+    "class": "ph ph-popsicle"
+  },
+  {
+    "name": "potted-plant",
+    "class": "ph ph-potted-plant"
+  },
+  {
+    "name": "power",
+    "class": "ph ph-power"
+  },
+  {
+    "name": "prescription",
+    "class": "ph ph-prescription"
+  },
+  {
+    "name": "presentation",
+    "class": "ph ph-presentation"
+  },
+  {
+    "name": "presentation-chart",
+    "class": "ph ph-presentation-chart"
+  },
+  {
+    "name": "printer",
+    "class": "ph ph-printer"
+  },
+  {
+    "name": "prohibit",
+    "class": "ph ph-prohibit"
+  },
+  {
+    "name": "prohibit-inset",
+    "class": "ph ph-prohibit-inset"
+  },
+  {
+    "name": "projector-screen",
+    "class": "ph ph-projector-screen"
+  },
+  {
+    "name": "projector-screen-chart",
+    "class": "ph ph-projector-screen-chart"
+  },
+  {
+    "name": "pulse",
+    "class": "ph ph-pulse"
+  },
+  {
+    "name": "activity",
+    "class": "ph ph-activity"
+  },
+  {
+    "name": "push-pin",
+    "class": "ph ph-push-pin"
+  },
+  {
+    "name": "push-pin-simple",
+    "class": "ph ph-push-pin-simple"
+  },
+  {
+    "name": "push-pin-simple-slash",
+    "class": "ph ph-push-pin-simple-slash"
+  },
+  {
+    "name": "push-pin-slash",
+    "class": "ph ph-push-pin-slash"
+  },
+  {
+    "name": "puzzle-piece",
+    "class": "ph ph-puzzle-piece"
+  },
+  {
+    "name": "qr-code",
+    "class": "ph ph-qr-code"
+  },
+  {
+    "name": "question",
+    "class": "ph ph-question"
+  },
+  {
+    "name": "question-mark",
+    "class": "ph ph-question-mark"
+  },
+  {
+    "name": "queue",
+    "class": "ph ph-queue"
+  },
+  {
+    "name": "quotes",
+    "class": "ph ph-quotes"
+  },
+  {
+    "name": "rabbit",
+    "class": "ph ph-rabbit"
+  },
+  {
+    "name": "racquet",
+    "class": "ph ph-racquet"
+  },
+  {
+    "name": "radical",
+    "class": "ph ph-radical"
+  },
+  {
+    "name": "radio",
+    "class": "ph ph-radio"
+  },
+  {
+    "name": "radio-button",
+    "class": "ph ph-radio-button"
+  },
+  {
+    "name": "radioactive",
+    "class": "ph ph-radioactive"
+  },
+  {
+    "name": "rainbow",
+    "class": "ph ph-rainbow"
+  },
+  {
+    "name": "rainbow-cloud",
+    "class": "ph ph-rainbow-cloud"
+  },
+  {
+    "name": "ranking",
+    "class": "ph ph-ranking"
+  },
+  {
+    "name": "read-cv-logo",
+    "class": "ph ph-read-cv-logo"
+  },
+  {
+    "name": "receipt",
+    "class": "ph ph-receipt"
+  },
+  {
+    "name": "receipt-x",
+    "class": "ph ph-receipt-x"
+  },
+  {
+    "name": "record",
+    "class": "ph ph-record"
+  },
+  {
+    "name": "rectangle",
+    "class": "ph ph-rectangle"
+  },
+  {
+    "name": "rectangle-dashed",
+    "class": "ph ph-rectangle-dashed"
+  },
+  {
+    "name": "recycle",
+    "class": "ph ph-recycle"
+  },
+  {
+    "name": "reddit-logo",
+    "class": "ph ph-reddit-logo"
+  },
+  {
+    "name": "repeat",
+    "class": "ph ph-repeat"
+  },
+  {
+    "name": "repeat-once",
+    "class": "ph ph-repeat-once"
+  },
+  {
+    "name": "replit-logo",
+    "class": "ph ph-replit-logo"
+  },
+  {
+    "name": "resize",
+    "class": "ph ph-resize"
+  },
+  {
+    "name": "rewind",
+    "class": "ph ph-rewind"
+  },
+  {
+    "name": "rewind-circle",
+    "class": "ph ph-rewind-circle"
+  },
+  {
+    "name": "road-horizon",
+    "class": "ph ph-road-horizon"
+  },
+  {
+    "name": "robot",
+    "class": "ph ph-robot"
+  },
+  {
+    "name": "rocket",
+    "class": "ph ph-rocket"
+  },
+  {
+    "name": "rocket-launch",
+    "class": "ph ph-rocket-launch"
+  },
+  {
+    "name": "rows",
+    "class": "ph ph-rows"
+  },
+  {
+    "name": "rows-plus-bottom",
+    "class": "ph ph-rows-plus-bottom"
+  },
+  {
+    "name": "rows-plus-top",
+    "class": "ph ph-rows-plus-top"
+  },
+  {
+    "name": "rss",
+    "class": "ph ph-rss"
+  },
+  {
+    "name": "rss-simple",
+    "class": "ph ph-rss-simple"
+  },
+  {
+    "name": "rug",
+    "class": "ph ph-rug"
+  },
+  {
+    "name": "ruler",
+    "class": "ph ph-ruler"
+  },
+  {
+    "name": "sailboat",
+    "class": "ph ph-sailboat"
+  },
+  {
+    "name": "scales",
+    "class": "ph ph-scales"
+  },
+  {
+    "name": "scan",
+    "class": "ph ph-scan"
+  },
+  {
+    "name": "scan-smiley",
+    "class": "ph ph-scan-smiley"
+  },
+  {
+    "name": "scissors",
+    "class": "ph ph-scissors"
+  },
+  {
+    "name": "scooter",
+    "class": "ph ph-scooter"
+  },
+  {
+    "name": "screencast",
+    "class": "ph ph-screencast"
+  },
+  {
+    "name": "screwdriver",
+    "class": "ph ph-screwdriver"
+  },
+  {
+    "name": "scribble",
+    "class": "ph ph-scribble"
+  },
+  {
+    "name": "scribble-loop",
+    "class": "ph ph-scribble-loop"
+  },
+  {
+    "name": "scroll",
+    "class": "ph ph-scroll"
+  },
+  {
+    "name": "seal",
+    "class": "ph ph-seal"
+  },
+  {
+    "name": "circle-wavy",
+    "class": "ph ph-circle-wavy"
+  },
+  {
+    "name": "seal-check",
+    "class": "ph ph-seal-check"
+  },
+  {
+    "name": "circle-wavy-check",
+    "class": "ph ph-circle-wavy-check"
+  },
+  {
+    "name": "seal-percent",
+    "class": "ph ph-seal-percent"
+  },
+  {
+    "name": "seal-question",
+    "class": "ph ph-seal-question"
+  },
+  {
+    "name": "circle-wavy-question",
+    "class": "ph ph-circle-wavy-question"
+  },
+  {
+    "name": "seal-warning",
+    "class": "ph ph-seal-warning"
+  },
+  {
+    "name": "circle-wavy-warning",
+    "class": "ph ph-circle-wavy-warning"
+  },
+  {
+    "name": "seat",
+    "class": "ph ph-seat"
+  },
+  {
+    "name": "seatbelt",
+    "class": "ph ph-seatbelt"
+  },
+  {
+    "name": "security-camera",
+    "class": "ph ph-security-camera"
+  },
+  {
+    "name": "selection",
+    "class": "ph ph-selection"
+  },
+  {
+    "name": "selection-all",
+    "class": "ph ph-selection-all"
+  },
+  {
+    "name": "selection-background",
+    "class": "ph ph-selection-background"
+  },
+  {
+    "name": "selection-foreground",
+    "class": "ph ph-selection-foreground"
+  },
+  {
+    "name": "selection-inverse",
+    "class": "ph ph-selection-inverse"
+  },
+  {
+    "name": "selection-plus",
+    "class": "ph ph-selection-plus"
+  },
+  {
+    "name": "selection-slash",
+    "class": "ph ph-selection-slash"
+  },
+  {
+    "name": "shapes",
+    "class": "ph ph-shapes"
+  },
+  {
+    "name": "share",
+    "class": "ph ph-share"
+  },
+  {
+    "name": "share-fat",
+    "class": "ph ph-share-fat"
+  },
+  {
+    "name": "share-network",
+    "class": "ph ph-share-network"
+  },
+  {
+    "name": "shield",
+    "class": "ph ph-shield"
+  },
+  {
+    "name": "shield-check",
+    "class": "ph ph-shield-check"
+  },
+  {
+    "name": "shield-checkered",
+    "class": "ph ph-shield-checkered"
+  },
+  {
+    "name": "shield-chevron",
+    "class": "ph ph-shield-chevron"
+  },
+  {
+    "name": "shield-plus",
+    "class": "ph ph-shield-plus"
+  },
+  {
+    "name": "shield-slash",
+    "class": "ph ph-shield-slash"
+  },
+  {
+    "name": "shield-star",
+    "class": "ph ph-shield-star"
+  },
+  {
+    "name": "shield-warning",
+    "class": "ph ph-shield-warning"
+  },
+  {
+    "name": "shipping-container",
+    "class": "ph ph-shipping-container"
+  },
+  {
+    "name": "shirt-folded",
+    "class": "ph ph-shirt-folded"
+  },
+  {
+    "name": "shooting-star",
+    "class": "ph ph-shooting-star"
+  },
+  {
+    "name": "shopping-bag",
+    "class": "ph ph-shopping-bag"
+  },
+  {
+    "name": "shopping-bag-open",
+    "class": "ph ph-shopping-bag-open"
+  },
+  {
+    "name": "shopping-cart",
+    "class": "ph ph-shopping-cart"
+  },
+  {
+    "name": "shopping-cart-simple",
+    "class": "ph ph-shopping-cart-simple"
+  },
+  {
+    "name": "shovel",
+    "class": "ph ph-shovel"
+  },
+  {
+    "name": "shower",
+    "class": "ph ph-shower"
+  },
+  {
+    "name": "shrimp",
+    "class": "ph ph-shrimp"
+  },
+  {
+    "name": "shuffle",
+    "class": "ph ph-shuffle"
+  },
+  {
+    "name": "shuffle-angular",
+    "class": "ph ph-shuffle-angular"
+  },
+  {
+    "name": "shuffle-simple",
+    "class": "ph ph-shuffle-simple"
+  },
+  {
+    "name": "sidebar",
+    "class": "ph ph-sidebar"
+  },
+  {
+    "name": "sidebar-simple",
+    "class": "ph ph-sidebar-simple"
+  },
+  {
+    "name": "sigma",
+    "class": "ph ph-sigma"
+  },
+  {
+    "name": "sign-in",
+    "class": "ph ph-sign-in"
+  },
+  {
+    "name": "sign-out",
+    "class": "ph ph-sign-out"
+  },
+  {
+    "name": "signature",
+    "class": "ph ph-signature"
+  },
+  {
+    "name": "signpost",
+    "class": "ph ph-signpost"
+  },
+  {
+    "name": "sim-card",
+    "class": "ph ph-sim-card"
+  },
+  {
+    "name": "siren",
+    "class": "ph ph-siren"
+  },
+  {
+    "name": "sketch-logo",
+    "class": "ph ph-sketch-logo"
+  },
+  {
+    "name": "skip-back",
+    "class": "ph ph-skip-back"
+  },
+  {
+    "name": "skip-back-circle",
+    "class": "ph ph-skip-back-circle"
+  },
+  {
+    "name": "skip-forward",
+    "class": "ph ph-skip-forward"
+  },
+  {
+    "name": "skip-forward-circle",
+    "class": "ph ph-skip-forward-circle"
+  },
+  {
+    "name": "skull",
+    "class": "ph ph-skull"
+  },
+  {
+    "name": "skype-logo",
+    "class": "ph ph-skype-logo"
+  },
+  {
+    "name": "slack-logo",
+    "class": "ph ph-slack-logo"
+  },
+  {
+    "name": "sliders",
+    "class": "ph ph-sliders"
+  },
+  {
+    "name": "sliders-horizontal",
+    "class": "ph ph-sliders-horizontal"
+  },
+  {
+    "name": "slideshow",
+    "class": "ph ph-slideshow"
+  },
+  {
+    "name": "smiley",
+    "class": "ph ph-smiley"
+  },
+  {
+    "name": "smiley-angry",
+    "class": "ph ph-smiley-angry"
+  },
+  {
+    "name": "smiley-blank",
+    "class": "ph ph-smiley-blank"
+  },
+  {
+    "name": "smiley-meh",
+    "class": "ph ph-smiley-meh"
+  },
+  {
+    "name": "smiley-melting",
+    "class": "ph ph-smiley-melting"
+  },
+  {
+    "name": "smiley-nervous",
+    "class": "ph ph-smiley-nervous"
+  },
+  {
+    "name": "smiley-sad",
+    "class": "ph ph-smiley-sad"
+  },
+  {
+    "name": "smiley-sticker",
+    "class": "ph ph-smiley-sticker"
+  },
+  {
+    "name": "smiley-wink",
+    "class": "ph ph-smiley-wink"
+  },
+  {
+    "name": "smiley-x-eyes",
+    "class": "ph ph-smiley-x-eyes"
+  },
+  {
+    "name": "snapchat-logo",
+    "class": "ph ph-snapchat-logo"
+  },
+  {
+    "name": "sneaker",
+    "class": "ph ph-sneaker"
+  },
+  {
+    "name": "sneaker-move",
+    "class": "ph ph-sneaker-move"
+  },
+  {
+    "name": "snowflake",
+    "class": "ph ph-snowflake"
+  },
+  {
+    "name": "soccer-ball",
+    "class": "ph ph-soccer-ball"
+  },
+  {
+    "name": "sock",
+    "class": "ph ph-sock"
+  },
+  {
+    "name": "solar-panel",
+    "class": "ph ph-solar-panel"
+  },
+  {
+    "name": "solar-roof",
+    "class": "ph ph-solar-roof"
+  },
+  {
+    "name": "sort-ascending",
+    "class": "ph ph-sort-ascending"
+  },
+  {
+    "name": "sort-descending",
+    "class": "ph ph-sort-descending"
+  },
+  {
+    "name": "soundcloud-logo",
+    "class": "ph ph-soundcloud-logo"
+  },
+  {
+    "name": "spade",
+    "class": "ph ph-spade"
+  },
+  {
+    "name": "sparkle",
+    "class": "ph ph-sparkle"
+  },
+  {
+    "name": "speaker-hifi",
+    "class": "ph ph-speaker-hifi"
+  },
+  {
+    "name": "speaker-high",
+    "class": "ph ph-speaker-high"
+  },
+  {
+    "name": "speaker-low",
+    "class": "ph ph-speaker-low"
+  },
+  {
+    "name": "speaker-none",
+    "class": "ph ph-speaker-none"
+  },
+  {
+    "name": "speaker-simple-high",
+    "class": "ph ph-speaker-simple-high"
+  },
+  {
+    "name": "speaker-simple-low",
+    "class": "ph ph-speaker-simple-low"
+  },
+  {
+    "name": "speaker-simple-none",
+    "class": "ph ph-speaker-simple-none"
+  },
+  {
+    "name": "speaker-simple-slash",
+    "class": "ph ph-speaker-simple-slash"
+  },
+  {
+    "name": "speaker-simple-x",
+    "class": "ph ph-speaker-simple-x"
+  },
+  {
+    "name": "speaker-slash",
+    "class": "ph ph-speaker-slash"
+  },
+  {
+    "name": "speaker-x",
+    "class": "ph ph-speaker-x"
+  },
+  {
+    "name": "speedometer",
+    "class": "ph ph-speedometer"
+  },
+  {
+    "name": "sphere",
+    "class": "ph ph-sphere"
+  },
+  {
+    "name": "spinner",
+    "class": "ph ph-spinner"
+  },
+  {
+    "name": "spinner-ball",
+    "class": "ph ph-spinner-ball"
+  },
+  {
+    "name": "spinner-gap",
+    "class": "ph ph-spinner-gap"
+  },
+  {
+    "name": "spiral",
+    "class": "ph ph-spiral"
+  },
+  {
+    "name": "split-horizontal",
+    "class": "ph ph-split-horizontal"
+  },
+  {
+    "name": "split-vertical",
+    "class": "ph ph-split-vertical"
+  },
+  {
+    "name": "spotify-logo",
+    "class": "ph ph-spotify-logo"
+  },
+  {
+    "name": "spray-bottle",
+    "class": "ph ph-spray-bottle"
+  },
+  {
+    "name": "square",
+    "class": "ph ph-square"
+  },
+  {
+    "name": "square-half",
+    "class": "ph ph-square-half"
+  },
+  {
+    "name": "square-half-bottom",
+    "class": "ph ph-square-half-bottom"
+  },
+  {
+    "name": "square-logo",
+    "class": "ph ph-square-logo"
+  },
+  {
+    "name": "square-split-horizontal",
+    "class": "ph ph-square-split-horizontal"
+  },
+  {
+    "name": "square-split-vertical",
+    "class": "ph ph-square-split-vertical"
+  },
+  {
+    "name": "squares-four",
+    "class": "ph ph-squares-four"
+  },
+  {
+    "name": "stack",
+    "class": "ph ph-stack"
+  },
+  {
+    "name": "stack-minus",
+    "class": "ph ph-stack-minus"
+  },
+  {
+    "name": "stack-overflow-logo",
+    "class": "ph ph-stack-overflow-logo"
+  },
+  {
+    "name": "stack-plus",
+    "class": "ph ph-stack-plus"
+  },
+  {
+    "name": "stack-simple",
+    "class": "ph ph-stack-simple"
+  },
+  {
+    "name": "stairs",
+    "class": "ph ph-stairs"
+  },
+  {
+    "name": "stamp",
+    "class": "ph ph-stamp"
+  },
+  {
+    "name": "standard-definition",
+    "class": "ph ph-standard-definition"
+  },
+  {
+    "name": "star",
+    "class": "ph ph-star"
+  },
+  {
+    "name": "star-and-crescent",
+    "class": "ph ph-star-and-crescent"
+  },
+  {
+    "name": "star-four",
+    "class": "ph ph-star-four"
+  },
+  {
+    "name": "star-half",
+    "class": "ph ph-star-half"
+  },
+  {
+    "name": "star-of-david",
+    "class": "ph ph-star-of-david"
+  },
+  {
+    "name": "steam-logo",
+    "class": "ph ph-steam-logo"
+  },
+  {
+    "name": "steering-wheel",
+    "class": "ph ph-steering-wheel"
+  },
+  {
+    "name": "steps",
+    "class": "ph ph-steps"
+  },
+  {
+    "name": "stethoscope",
+    "class": "ph ph-stethoscope"
+  },
+  {
+    "name": "sticker",
+    "class": "ph ph-sticker"
+  },
+  {
+    "name": "stool",
+    "class": "ph ph-stool"
+  },
+  {
+    "name": "stop",
+    "class": "ph ph-stop"
+  },
+  {
+    "name": "stop-circle",
+    "class": "ph ph-stop-circle"
+  },
+  {
+    "name": "storefront",
+    "class": "ph ph-storefront"
+  },
+  {
+    "name": "strategy",
+    "class": "ph ph-strategy"
+  },
+  {
+    "name": "stripe-logo",
+    "class": "ph ph-stripe-logo"
+  },
+  {
+    "name": "student",
+    "class": "ph ph-student"
+  },
+  {
+    "name": "subset-of",
+    "class": "ph ph-subset-of"
+  },
+  {
+    "name": "subset-proper-of",
+    "class": "ph ph-subset-proper-of"
+  },
+  {
+    "name": "subtitles",
+    "class": "ph ph-subtitles"
+  },
+  {
+    "name": "subtitles-slash",
+    "class": "ph ph-subtitles-slash"
+  },
+  {
+    "name": "subtract",
+    "class": "ph ph-subtract"
+  },
+  {
+    "name": "subtract-square",
+    "class": "ph ph-subtract-square"
+  },
+  {
+    "name": "subway",
+    "class": "ph ph-subway"
+  },
+  {
+    "name": "suitcase",
+    "class": "ph ph-suitcase"
+  },
+  {
+    "name": "suitcase-rolling",
+    "class": "ph ph-suitcase-rolling"
+  },
+  {
+    "name": "suitcase-simple",
+    "class": "ph ph-suitcase-simple"
+  },
+  {
+    "name": "sun",
+    "class": "ph ph-sun"
+  },
+  {
+    "name": "sun-dim",
+    "class": "ph ph-sun-dim"
+  },
+  {
+    "name": "sun-horizon",
+    "class": "ph ph-sun-horizon"
+  },
+  {
+    "name": "sunglasses",
+    "class": "ph ph-sunglasses"
+  },
+  {
+    "name": "superset-of",
+    "class": "ph ph-superset-of"
+  },
+  {
+    "name": "superset-proper-of",
+    "class": "ph ph-superset-proper-of"
+  },
+  {
+    "name": "swap",
+    "class": "ph ph-swap"
+  },
+  {
+    "name": "swatches",
+    "class": "ph ph-swatches"
+  },
+  {
+    "name": "swimming-pool",
+    "class": "ph ph-swimming-pool"
+  },
+  {
+    "name": "sword",
+    "class": "ph ph-sword"
+  },
+  {
+    "name": "synagogue",
+    "class": "ph ph-synagogue"
+  },
+  {
+    "name": "syringe",
+    "class": "ph ph-syringe"
+  },
+  {
+    "name": "t-shirt",
+    "class": "ph ph-t-shirt"
+  },
+  {
+    "name": "table",
+    "class": "ph ph-table"
+  },
+  {
+    "name": "tabs",
+    "class": "ph ph-tabs"
+  },
+  {
+    "name": "tag",
+    "class": "ph ph-tag"
+  },
+  {
+    "name": "tag-chevron",
+    "class": "ph ph-tag-chevron"
+  },
+  {
+    "name": "tag-simple",
+    "class": "ph ph-tag-simple"
+  },
+  {
+    "name": "target",
+    "class": "ph ph-target"
+  },
+  {
+    "name": "taxi",
+    "class": "ph ph-taxi"
+  },
+  {
+    "name": "tea-bag",
+    "class": "ph ph-tea-bag"
+  },
+  {
+    "name": "telegram-logo",
+    "class": "ph ph-telegram-logo"
+  },
+  {
+    "name": "television",
+    "class": "ph ph-television"
+  },
+  {
+    "name": "television-simple",
+    "class": "ph ph-television-simple"
+  },
+  {
+    "name": "tennis-ball",
+    "class": "ph ph-tennis-ball"
+  },
+  {
+    "name": "tent",
+    "class": "ph ph-tent"
+  },
+  {
+    "name": "terminal",
+    "class": "ph ph-terminal"
+  },
+  {
+    "name": "terminal-window",
+    "class": "ph ph-terminal-window"
+  },
+  {
+    "name": "test-tube",
+    "class": "ph ph-test-tube"
+  },
+  {
+    "name": "text-a-underline",
+    "class": "ph ph-text-a-underline"
+  },
+  {
+    "name": "text-aa",
+    "class": "ph ph-text-aa"
+  },
+  {
+    "name": "text-align-center",
+    "class": "ph ph-text-align-center"
+  },
+  {
+    "name": "text-align-justify",
+    "class": "ph ph-text-align-justify"
+  },
+  {
+    "name": "text-align-left",
+    "class": "ph ph-text-align-left"
+  },
+  {
+    "name": "text-align-right",
+    "class": "ph ph-text-align-right"
+  },
+  {
+    "name": "text-b",
+    "class": "ph ph-text-b"
+  },
+  {
+    "name": "text-bolder",
+    "class": "ph ph-text-bolder"
+  },
+  {
+    "name": "text-columns",
+    "class": "ph ph-text-columns"
+  },
+  {
+    "name": "text-h",
+    "class": "ph ph-text-h"
+  },
+  {
+    "name": "text-h-five",
+    "class": "ph ph-text-h-five"
+  },
+  {
+    "name": "text-h-four",
+    "class": "ph ph-text-h-four"
+  },
+  {
+    "name": "text-h-one",
+    "class": "ph ph-text-h-one"
+  },
+  {
+    "name": "text-h-six",
+    "class": "ph ph-text-h-six"
+  },
+  {
+    "name": "text-h-three",
+    "class": "ph ph-text-h-three"
+  },
+  {
+    "name": "text-h-two",
+    "class": "ph ph-text-h-two"
+  },
+  {
+    "name": "text-indent",
+    "class": "ph ph-text-indent"
+  },
+  {
+    "name": "text-italic",
+    "class": "ph ph-text-italic"
+  },
+  {
+    "name": "text-outdent",
+    "class": "ph ph-text-outdent"
+  },
+  {
+    "name": "text-strikethrough",
+    "class": "ph ph-text-strikethrough"
+  },
+  {
+    "name": "text-subscript",
+    "class": "ph ph-text-subscript"
+  },
+  {
+    "name": "text-superscript",
+    "class": "ph ph-text-superscript"
+  },
+  {
+    "name": "text-t",
+    "class": "ph ph-text-t"
+  },
+  {
+    "name": "text-t-slash",
+    "class": "ph ph-text-t-slash"
+  },
+  {
+    "name": "text-underline",
+    "class": "ph ph-text-underline"
+  },
+  {
+    "name": "textbox",
+    "class": "ph ph-textbox"
+  },
+  {
+    "name": "thermometer",
+    "class": "ph ph-thermometer"
+  },
+  {
+    "name": "thermometer-cold",
+    "class": "ph ph-thermometer-cold"
+  },
+  {
+    "name": "thermometer-hot",
+    "class": "ph ph-thermometer-hot"
+  },
+  {
+    "name": "thermometer-simple",
+    "class": "ph ph-thermometer-simple"
+  },
+  {
+    "name": "threads-logo",
+    "class": "ph ph-threads-logo"
+  },
+  {
+    "name": "three-d",
+    "class": "ph ph-three-d"
+  },
+  {
+    "name": "thumbs-down",
+    "class": "ph ph-thumbs-down"
+  },
+  {
+    "name": "thumbs-up",
+    "class": "ph ph-thumbs-up"
+  },
+  {
+    "name": "ticket",
+    "class": "ph ph-ticket"
+  },
+  {
+    "name": "tidal-logo",
+    "class": "ph ph-tidal-logo"
+  },
+  {
+    "name": "tiktok-logo",
+    "class": "ph ph-tiktok-logo"
+  },
+  {
+    "name": "tilde",
+    "class": "ph ph-tilde"
+  },
+  {
+    "name": "timer",
+    "class": "ph ph-timer"
+  },
+  {
+    "name": "tip-jar",
+    "class": "ph ph-tip-jar"
+  },
+  {
+    "name": "tipi",
+    "class": "ph ph-tipi"
+  },
+  {
+    "name": "tire",
+    "class": "ph ph-tire"
+  },
+  {
+    "name": "toggle-left",
+    "class": "ph ph-toggle-left"
+  },
+  {
+    "name": "toggle-right",
+    "class": "ph ph-toggle-right"
+  },
+  {
+    "name": "toilet",
+    "class": "ph ph-toilet"
+  },
+  {
+    "name": "toilet-paper",
+    "class": "ph ph-toilet-paper"
+  },
+  {
+    "name": "toolbox",
+    "class": "ph ph-toolbox"
+  },
+  {
+    "name": "tooth",
+    "class": "ph ph-tooth"
+  },
+  {
+    "name": "tornado",
+    "class": "ph ph-tornado"
+  },
+  {
+    "name": "tote",
+    "class": "ph ph-tote"
+  },
+  {
+    "name": "tote-simple",
+    "class": "ph ph-tote-simple"
+  },
+  {
+    "name": "towel",
+    "class": "ph ph-towel"
+  },
+  {
+    "name": "tractor",
+    "class": "ph ph-tractor"
+  },
+  {
+    "name": "trademark",
+    "class": "ph ph-trademark"
+  },
+  {
+    "name": "trademark-registered",
+    "class": "ph ph-trademark-registered"
+  },
+  {
+    "name": "traffic-cone",
+    "class": "ph ph-traffic-cone"
+  },
+  {
+    "name": "traffic-sign",
+    "class": "ph ph-traffic-sign"
+  },
+  {
+    "name": "traffic-signal",
+    "class": "ph ph-traffic-signal"
+  },
+  {
+    "name": "train",
+    "class": "ph ph-train"
+  },
+  {
+    "name": "train-regional",
+    "class": "ph ph-train-regional"
+  },
+  {
+    "name": "train-simple",
+    "class": "ph ph-train-simple"
+  },
+  {
+    "name": "tram",
+    "class": "ph ph-tram"
+  },
+  {
+    "name": "translate",
+    "class": "ph ph-translate"
+  },
+  {
+    "name": "trash",
+    "class": "ph ph-trash"
+  },
+  {
+    "name": "trash-simple",
+    "class": "ph ph-trash-simple"
+  },
+  {
+    "name": "tray",
+    "class": "ph ph-tray"
+  },
+  {
+    "name": "tray-arrow-down",
+    "class": "ph ph-tray-arrow-down"
+  },
+  {
+    "name": "archive-tray",
+    "class": "ph ph-archive-tray"
+  },
+  {
+    "name": "tray-arrow-up",
+    "class": "ph ph-tray-arrow-up"
+  },
+  {
+    "name": "treasure-chest",
+    "class": "ph ph-treasure-chest"
+  },
+  {
+    "name": "tree",
+    "class": "ph ph-tree"
+  },
+  {
+    "name": "tree-evergreen",
+    "class": "ph ph-tree-evergreen"
+  },
+  {
+    "name": "tree-palm",
+    "class": "ph ph-tree-palm"
+  },
+  {
+    "name": "tree-structure",
+    "class": "ph ph-tree-structure"
+  },
+  {
+    "name": "tree-view",
+    "class": "ph ph-tree-view"
+  },
+  {
+    "name": "trend-down",
+    "class": "ph ph-trend-down"
+  },
+  {
+    "name": "trend-up",
+    "class": "ph ph-trend-up"
+  },
+  {
+    "name": "triangle",
+    "class": "ph ph-triangle"
+  },
+  {
+    "name": "triangle-dashed",
+    "class": "ph ph-triangle-dashed"
+  },
+  {
+    "name": "trolley",
+    "class": "ph ph-trolley"
+  },
+  {
+    "name": "trolley-suitcase",
+    "class": "ph ph-trolley-suitcase"
+  },
+  {
+    "name": "trophy",
+    "class": "ph ph-trophy"
+  },
+  {
+    "name": "truck",
+    "class": "ph ph-truck"
+  },
+  {
+    "name": "truck-trailer",
+    "class": "ph ph-truck-trailer"
+  },
+  {
+    "name": "tumblr-logo",
+    "class": "ph ph-tumblr-logo"
+  },
+  {
+    "name": "twitch-logo",
+    "class": "ph ph-twitch-logo"
+  },
+  {
+    "name": "twitter-logo",
+    "class": "ph ph-twitter-logo"
+  },
+  {
+    "name": "umbrella",
+    "class": "ph ph-umbrella"
+  },
+  {
+    "name": "umbrella-simple",
+    "class": "ph ph-umbrella-simple"
+  },
+  {
+    "name": "union",
+    "class": "ph ph-union"
+  },
+  {
+    "name": "unite",
+    "class": "ph ph-unite"
+  },
+  {
+    "name": "unite-square",
+    "class": "ph ph-unite-square"
+  },
+  {
+    "name": "upload",
+    "class": "ph ph-upload"
+  },
+  {
+    "name": "upload-simple",
+    "class": "ph ph-upload-simple"
+  },
+  {
+    "name": "usb",
+    "class": "ph ph-usb"
+  },
+  {
+    "name": "user",
+    "class": "ph ph-user"
+  },
+  {
+    "name": "user-check",
+    "class": "ph ph-user-check"
+  },
+  {
+    "name": "user-circle",
+    "class": "ph ph-user-circle"
+  },
+  {
+    "name": "user-circle-check",
+    "class": "ph ph-user-circle-check"
+  },
+  {
+    "name": "user-circle-dashed",
+    "class": "ph ph-user-circle-dashed"
+  },
+  {
+    "name": "user-circle-gear",
+    "class": "ph ph-user-circle-gear"
+  },
+  {
+    "name": "user-circle-minus",
+    "class": "ph ph-user-circle-minus"
+  },
+  {
+    "name": "user-circle-plus",
+    "class": "ph ph-user-circle-plus"
+  },
+  {
+    "name": "user-focus",
+    "class": "ph ph-user-focus"
+  },
+  {
+    "name": "user-gear",
+    "class": "ph ph-user-gear"
+  },
+  {
+    "name": "user-list",
+    "class": "ph ph-user-list"
+  },
+  {
+    "name": "user-minus",
+    "class": "ph ph-user-minus"
+  },
+  {
+    "name": "user-plus",
+    "class": "ph ph-user-plus"
+  },
+  {
+    "name": "user-rectangle",
+    "class": "ph ph-user-rectangle"
+  },
+  {
+    "name": "user-sound",
+    "class": "ph ph-user-sound"
+  },
+  {
+    "name": "user-square",
+    "class": "ph ph-user-square"
+  },
+  {
+    "name": "user-switch",
+    "class": "ph ph-user-switch"
+  },
+  {
+    "name": "users",
+    "class": "ph ph-users"
+  },
+  {
+    "name": "users-four",
+    "class": "ph ph-users-four"
+  },
+  {
+    "name": "users-three",
+    "class": "ph ph-users-three"
+  },
+  {
+    "name": "van",
+    "class": "ph ph-van"
+  },
+  {
+    "name": "vault",
+    "class": "ph ph-vault"
+  },
+  {
+    "name": "vector-three",
+    "class": "ph ph-vector-three"
+  },
+  {
+    "name": "vector-two",
+    "class": "ph ph-vector-two"
+  },
+  {
+    "name": "vibrate",
+    "class": "ph ph-vibrate"
+  },
+  {
+    "name": "video",
+    "class": "ph ph-video"
+  },
+  {
+    "name": "video-camera",
+    "class": "ph ph-video-camera"
+  },
+  {
+    "name": "video-camera-slash",
+    "class": "ph ph-video-camera-slash"
+  },
+  {
+    "name": "video-conference",
+    "class": "ph ph-video-conference"
+  },
+  {
+    "name": "vignette",
+    "class": "ph ph-vignette"
+  },
+  {
+    "name": "vinyl-record",
+    "class": "ph ph-vinyl-record"
+  },
+  {
+    "name": "virtual-reality",
+    "class": "ph ph-virtual-reality"
+  },
+  {
+    "name": "virus",
+    "class": "ph ph-virus"
+  },
+  {
+    "name": "visor",
+    "class": "ph ph-visor"
+  },
+  {
+    "name": "voicemail",
+    "class": "ph ph-voicemail"
+  },
+  {
+    "name": "volleyball",
+    "class": "ph ph-volleyball"
+  },
+  {
+    "name": "wall",
+    "class": "ph ph-wall"
+  },
+  {
+    "name": "wallet",
+    "class": "ph ph-wallet"
+  },
+  {
+    "name": "warehouse",
+    "class": "ph ph-warehouse"
+  },
+  {
+    "name": "warning",
+    "class": "ph ph-warning"
+  },
+  {
+    "name": "warning-circle",
+    "class": "ph ph-warning-circle"
+  },
+  {
+    "name": "warning-diamond",
+    "class": "ph ph-warning-diamond"
+  },
+  {
+    "name": "warning-octagon",
+    "class": "ph ph-warning-octagon"
+  },
+  {
+    "name": "washing-machine",
+    "class": "ph ph-washing-machine"
+  },
+  {
+    "name": "watch",
+    "class": "ph ph-watch"
+  },
+  {
+    "name": "wave-sawtooth",
+    "class": "ph ph-wave-sawtooth"
+  },
+  {
+    "name": "wave-sine",
+    "class": "ph ph-wave-sine"
+  },
+  {
+    "name": "wave-square",
+    "class": "ph ph-wave-square"
+  },
+  {
+    "name": "wave-triangle",
+    "class": "ph ph-wave-triangle"
+  },
+  {
+    "name": "waveform",
+    "class": "ph ph-waveform"
+  },
+  {
+    "name": "waveform-slash",
+    "class": "ph ph-waveform-slash"
+  },
+  {
+    "name": "waves",
+    "class": "ph ph-waves"
+  },
+  {
+    "name": "webcam",
+    "class": "ph ph-webcam"
+  },
+  {
+    "name": "webcam-slash",
+    "class": "ph ph-webcam-slash"
+  },
+  {
+    "name": "webhooks-logo",
+    "class": "ph ph-webhooks-logo"
+  },
+  {
+    "name": "wechat-logo",
+    "class": "ph ph-wechat-logo"
+  },
+  {
+    "name": "whatsapp-logo",
+    "class": "ph ph-whatsapp-logo"
+  },
+  {
+    "name": "wheelchair",
+    "class": "ph ph-wheelchair"
+  },
+  {
+    "name": "wheelchair-motion",
+    "class": "ph ph-wheelchair-motion"
+  },
+  {
+    "name": "wifi-high",
+    "class": "ph ph-wifi-high"
+  },
+  {
+    "name": "wifi-low",
+    "class": "ph ph-wifi-low"
+  },
+  {
+    "name": "wifi-medium",
+    "class": "ph ph-wifi-medium"
+  },
+  {
+    "name": "wifi-none",
+    "class": "ph ph-wifi-none"
+  },
+  {
+    "name": "wifi-slash",
+    "class": "ph ph-wifi-slash"
+  },
+  {
+    "name": "wifi-x",
+    "class": "ph ph-wifi-x"
+  },
+  {
+    "name": "wind",
+    "class": "ph ph-wind"
+  },
+  {
+    "name": "windmill",
+    "class": "ph ph-windmill"
+  },
+  {
+    "name": "windows-logo",
+    "class": "ph ph-windows-logo"
+  },
+  {
+    "name": "wine",
+    "class": "ph ph-wine"
+  },
+  {
+    "name": "wrench",
+    "class": "ph ph-wrench"
+  },
+  {
+    "name": "x",
+    "class": "ph ph-x"
+  },
+  {
+    "name": "x-circle",
+    "class": "ph ph-x-circle"
+  },
+  {
+    "name": "x-logo",
+    "class": "ph ph-x-logo"
+  },
+  {
+    "name": "x-square",
+    "class": "ph ph-x-square"
+  },
+  {
+    "name": "yarn",
+    "class": "ph ph-yarn"
+  },
+  {
+    "name": "yin-yang",
+    "class": "ph ph-yin-yang"
+  },
+  {
+    "name": "youtube-logo",
+    "class": "ph ph-youtube-logo"
+  }
+]

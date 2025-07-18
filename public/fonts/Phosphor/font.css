@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'Phosphor';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(af30efbe-72b1-47b5-b292-069eba010835.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Phosphor';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(d2394d70-24b0-4130-9b81-f318a290c7e1.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Phosphor';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(6983fdf6-59b4-420f-bf7f-69b79486102f.woff2) format('woff2');
+}
